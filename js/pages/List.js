@@ -88,6 +88,9 @@ export default {
                     <div class="og">
                         <p class="type-label-md">Website layout made by <a href="https://tsl.pages.dev/" target="_blank">TheShittyList</a></p>
                     </div>
+                    <div class="og">
+                        <p class="type-label-md">Find a bug in the website? <a href="https://github.com/editorial50/WalmartList/issues" target="_blank">Report it" target="_blank"> Report it</a> here!</p>
+                    </div>
                     <template v-if="editors">
                         <h3>List Editors</h3>
                         <ol class="editors">

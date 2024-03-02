@@ -90,7 +90,7 @@ export default {
                     </div>
                     <div class="og">
                         <p class="type-label-md">Find a bug in the website? <a href="https://github.com/editorial50/WalmartList/issues" target="_blank"><u>Report it</u></a> here!<br> 
-                        This is <b> ONLY </b> for issues with the website itself, to report problems with the list or levels, join the Discord server.</p>
+                        This is <b> ONLY </b> for issues with the website itself, to report problems with the list or levels, join the Discord server.<br></p>
                     </div>
                     <template v-if="editors">
                         <h3>List Editors</h3>

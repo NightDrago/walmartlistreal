@@ -21,10 +21,10 @@ export default {
                     <span>{{ author }}</span>
                 </p>
             </template>
-            <template v-else-if="creators.length === 1">
+            <template v-else-if="creators.length === 0">
                 <div class="type-title-sm">Creator</div>
                 <p class="type-body">
-                    <span>{{ creator }}</span>
+                    <span>{{ author }}</span>
                 </p>
                 <div class="type-title-sm">Verifier</div>
                 <p class="type-body">

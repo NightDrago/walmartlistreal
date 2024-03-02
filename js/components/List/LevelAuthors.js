@@ -24,7 +24,7 @@ export default {
             <template v-else-if="creators.length > 1">
                 <div class="type-title-sm">Creators</div>
                 <p class="type-body">
-                    <span>{{ author }}</span>
+                    <span>{{ creators }}</span>
                 </p>
                 <div class="type-title-sm">Verifier</div>
                 <p class="type-body">

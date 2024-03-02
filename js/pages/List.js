@@ -122,7 +122,7 @@ export default {
                         Do not use secret routes or bug routes.
                     </p>
                     <p>
-                        If you have a mod menu that has a cheat indicator function you must turn it on, or the completion will be invalidated.
+                        If you have a mod menu that has a cheat indicator function you must turn it on, or the completion will be invalidated. <a href="https://geode-sdk.org/" target="_blank"><u>Geode</u></a> has many free mod menus that have cheat indicators for all platforms (except IOS).
                     </p>
                     <p>
                         Once a level falls onto the Legacy List, we accept records for it for 24 hours after it falls off, then afterwards we never accept records for said level.

@@ -8,14 +8,12 @@
     "percentToQualify": 56,
     "password": "245245",
     "records": [
-        
         {
             "user": "Editorial",
             "link": "https://youtu.be/QHr7cTwH47U",
             "percent": 100,
-            "hz": 360,
-        }
-        
+            "hz": 360
+        },
         {
             "user": "huntzz",
             "link": "https://www.youtube.com/watch?v=sQxF2_mmORg",

@@ -24,7 +24,7 @@ export default {
             <template v-else-if="creators.length === 1"> <!-- Check if there is only one creator -->
                 <div class="type-title-sm">Creator</div>
                 <p class="type-body">
-                    <span>{{ author }}</span>
+                    <span>{{ creators[0] }}</span> <!-- Display the first creator -->
                 </p>
                 <div class="type-title-sm">Verifier</div>
                 <p class="type-body">

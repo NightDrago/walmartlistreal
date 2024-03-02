@@ -1,27 +1,22 @@
-[
+it[
     {
         "role": "owner",
-        "name": "List Owner",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "name": "Editorial",
+        "link": "https://www.youtube.com/@EditorialGD"
     },
     {
-        "role": "admin",
-        "name": "List Admin",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "role": "owner",
+        "name": "Ultrobro",
+        "link": "https://www.youtube.com/channel/UCsNPPUJlp9VyJ2zms8KKl3g"
     },
     {
-        "role": "helper",
-        "name": "List Helper",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
-    },
-    {
-        "role": "trial",
-        "name": "Trial List Helper",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "role": "owner",
+        "name": "Huntzz",
+        "link": "https://www.youtube.com/@huntzzgd"
     },
     {
         "role": "dev",
-        "name": "List Coder",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
-    }
+        "name": "zSphericle",
+        "link": "https://www.youtube.com/channel/UCP9rAStP33um-j-Zov89nyQ"
+    },
 ]

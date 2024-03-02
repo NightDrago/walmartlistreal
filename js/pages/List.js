@@ -86,7 +86,7 @@ export default {
                         <p class="error" v-for="error of errors">{{ error }}</p>
                     </div>
                     <div class="og">
-                        <p class="type-label-md">Website layout made by <a href="https://tsl.pages.dev/" target="_blank">TheShittyList</a></p>
+                        <p class="type-label-md">Website layout made by <h1 style="color: AAAAAA;"> <a href="https://tsl.pages.dev/" target="_blank">TheShittyList</a></h1></p>
                     </div>
                     <div class="og">
                         <p class="type-label-md">Find a bug in the website? <a href="https://github.com/editorial50/WalmartList/issues" target="_blank">Report it</a> here!</p>

@@ -1,27 +1,12 @@
 {
     "id": 57436521,
     "name": "Walmart Acute",
-    "author": "LevelUploader",
-    "creators": ["Creator1", "Creator2", "Creator3"],
-    "verifier": "Verifier",
+    "author": "BananaBuns",
+    "creators": ["BananaBuns"],
+    "verifier": "Ultrobro",
     "verification": "https://youtu.be/-2dZ93XH45g?si=f7y6k_e4B31E2Pf1",
     "percentToQualify": 56,
-    "password": "Not Copyable",
+    "password": "245245",
     "records": [
-        
-        {
-            "user": "Sample_Victor_1",
-            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
-            "percent": 100,
-            "hz": 360
-        },
-        
-        {
-            "user": "Sample_Victor_2",
-            "link": "https://www.youtube.com/watch?v=JFZ1rQ7KVfA&ab_channel=UltrobroGD",
-            "percent": 100,
-            "hz": 240
-        }
-        
     ]
 }

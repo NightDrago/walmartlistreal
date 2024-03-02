@@ -1,1 +1,1 @@
-# [Website] (https://walmartlist.pages.dev/#/)
+# [Website](https://walmartlist.pages.dev/#/)

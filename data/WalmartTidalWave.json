@@ -13,6 +13,12 @@
             "link": "https://www.youtube.com/watch?v=vLgFQYk6gY0&ab_channel=Editorial%5BGD%5D",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "sphericle",
+            "link": "https://youtu.be/qV4k_HT3fPU",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }

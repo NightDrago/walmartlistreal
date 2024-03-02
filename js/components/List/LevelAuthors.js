@@ -22,7 +22,7 @@ export default {
                 </p>
             </template>
             <template v-else-if="creators.length === 0">
-                <div class="type-title-sm">Creator</div>
+                <div class="type-title-sm">Creators</div>
                 <p class="type-body">
                     <span>{{ author }}</span>
                 </p>

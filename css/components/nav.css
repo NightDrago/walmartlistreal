@@ -59,11 +59,4 @@
 .nav .nav__actions .nav__cta:hover:not(:active) {
     transform: translateY(-2px);
 }
-.logo {
-    display: flex;
-    align-items: center; /* Align items vertically */
-}
 
-.logo img {
-    margin-right: 10px; /* Adjust margin as needed */
-}

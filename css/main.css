@@ -10,7 +10,7 @@
 }
 
 main.dark,
-header.light {
+header.dark {
     color-scheme: dark;
     --color-background: #eee;
     --color-on-background: white;

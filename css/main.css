@@ -94,3 +94,12 @@ input[type="checkbox"] {
     cursor: pointer;
     margin: 0;
 }
+
+.logo {
+    display: flex;
+    align-items: center; /* Align items vertically */
+}
+
+.logo img {
+    margin-right: 10px; /* Adjust margin as needed */
+}

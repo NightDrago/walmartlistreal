@@ -1,1 +1,19 @@
-
+{
+    "id": 101835981,
+    "name": "Walmart Retray",
+    "author": "Ultrobro",
+    "creators": [],
+    "verifier": "Ultrobro",
+    "verification": "https://youtu.be/5YQyH6ofV18?si=m7jcLMcwkDOl4pKl",
+    "percentToQualify": 80,
+    "password": "No Password",
+    "records": [
+      {
+            "user": "Editorial",
+            "link": "https://www.youtube.com/watch?v=vLgFQYk6gY0&ab_channel=Editorial%5BGD%5D",
+            "percent": 100,
+            "hz": 360
+        }
+        
+    ]
+}

@@ -76,6 +76,28 @@
                         >Submit Record</a
                     >
                 </div>
+                <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Walmart List</title>
+    <link rel="icon" href="/list_icon.jpg" />
+    <link rel="stylesheet" type="text/css" href="/css/reset.css" />
+    <link rel="stylesheet" type="text/css" href="/css/typography.css" />
+    <link rel="stylesheet" type="text/css" href="/css/main.css" />
+    <!-- Other CSS links -->
+    <style>
+        header {
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+    <header :class="{ dark: store.dark }">
+        <div class="logo">
+            <img src="list_icon.jpg" style="width: 50px; height: 50px; margin-right: 10px;">
+            <h2 style="display: inline;">Walmart List</h2>
             </nav>
         </header>
         <router-view :class="{ dark: store.dark }"></router-view>

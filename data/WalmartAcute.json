@@ -19,6 +19,12 @@
             "link": "https://www.youtube.com/watch?v=sQxF2_mmORg",
             "percent": 77,
             "hz": 360
+        },
+        {
+            "user": "skiptracingclub",
+            "link": "https://youtu.be/mrRiBKuSiXM",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }

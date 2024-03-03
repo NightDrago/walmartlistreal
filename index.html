@@ -8,29 +8,50 @@
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <link href="https://fonts.googleapis.com/css2?family=Lexend+Deca:wght@500;700&display=swap" rel="stylesheet" />
-    <link rel="stylesheet" type="text/css" href="/css/reset.css" />
-    <link rel="stylesheet" type="text/css" href="/css/typography.css" />
-    <link rel="stylesheet" type="text/css" href="/css/main.css" />
-    <!-- Other CSS links -->
-    <script src="https://unpkg.com/vue@3.2.31/dist/vue.global.js"></script>
-    <script src="https://unpkg.com/vue-router@4.0.14/dist/vue-router.global.prod.js"></script>
-    <script type="module" src="/js/main.js"></script>
     <style>
-        header {
-            text-align: center;
-        }
         .logo {
-            margin-bottom: 20px; /* Adjust the margin as needed */
+            text-align: center;
+            margin-bottom: 20px; /* Adjust as needed */
+        }
+
+        .logo h2 {
+            font-family: 'Lexend Deca', sans-serif;
+            font-weight: 700;
+            font-size: 24px;
+            display: inline-block;
+            vertical-align: middle;
+            margin-left: 10px; /* Adjust as needed */
+        }
+
+        .logo img {
+            width: 50px;
+            height: 50px;
+            vertical-align: middle;
+        }
+
+        .nav__tab {
+            /* Add your navigation tab styles here */
         }
     </style>
 </head>
 <body id="app">
     <header :class="{ dark: store.dark }">
         <div class="logo">
-            <img src="list_icon.jpg" style="width: 50px; height: 50px; float: left; margin-right: 10px;">
-            <h2 style="display: inline;">Walmart List</h2>
+            <img src="list_icon.jpg">
+            <h2>Walmart List</h2>
         </div>
-        <!-- Navigation and other content -->
+        <nav class="nav">
+            <router-link class="nav__tab" to="/">
+                <span class="type-label-lg">List</span>
+            </router-link>
+            <router-link class="nav__tab" to="/leaderboard">
+                <span class="type-label-lg">Leaderboard</span>
+            </router-link>
+            <router-link class="nav__tab" to="/roulette">
+                <span class="type-label-lg">Roulette</span>
+            </router-link>
+            <!-- Add other navigation links here -->
+        </nav>
     </header>
     <router-view :class="{ dark: store.dark }"></router-view>
 </body>

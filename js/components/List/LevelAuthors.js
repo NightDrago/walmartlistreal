@@ -18,7 +18,7 @@ export default {
             <template v-if="selfVerified">
                 <div class="type-title-sm">Creator & Verifier</div>
                 <p class="type-body">
-                    <span>{{ creator }}</span>
+                    <span>{{ verifier }}</span>
                 </p>
             </template>
             <template v-else-if="creators.length === 1"> <!-- Check if there is only one creator -->

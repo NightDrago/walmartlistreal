@@ -52,6 +52,8 @@ export default {
     `,
 
     computed: {
-        selfVerified() {this.creators.length === 0;},
+        selfVerified() {
+            return this.creators.length === 0;
+        },
     },
 };

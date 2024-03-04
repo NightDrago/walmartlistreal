@@ -110,7 +110,7 @@ export default {
                         Achieved the record on the level that is listed on the site - please check the level ID before you submit a record.
                     </p>
                     <p>
-                        Have either source audio or clicks/taps in the video. Edited audio only does not count.
+                        Have clicks/taps in the video. Edited audio only does not count.
                     </p>
                     <p>
                         The recording must have a previous attempt and entire death animation shown before the completion, unless the completion is on the first attempt. Everyplay records are exempt from this.
@@ -124,10 +124,7 @@ export default {
                     <p>
                         If you have a mod menu that has a cheat indicator function you must turn it on, or the completion will be invalidated. <a href="https://geode-sdk.org/" target="_blank"><u>Geode</u></a> has many free mod menus that have cheat indicators for all platforms (except IOS).
                     </p>
-                    <p>
-                        Once a level falls onto the Legacy List, we accept records for it for 24 hours after it falls off, then afterwards we never accept records for said level.
-                    </p>
-                </div>
+                                    </div>
             </div>
         </main>
     `,

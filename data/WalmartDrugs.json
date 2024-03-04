@@ -8,6 +8,12 @@
     "percentToQualify": 56,
     "password": "Not Copyable",
     "records": [
+        {
+            "user": "huntzz",
+            "link": "https://www.youtube.com/watch?v=jztgGNpNxW8&feature=youtu.be",
+            "percent": 60,
+            "hz": 360
+        }
         
     ]
 }

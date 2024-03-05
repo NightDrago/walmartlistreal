@@ -1,17 +1,17 @@
 {
     "id": 95854076,
-    "name": "Walmart Drugs",
+    "name": "Walmart Maze",
     "author": "Mini",
     "creators": ["Mini"],
-    "verifier": "Editorial",
+    "verifier": "Mini",
     "verification": "https://youtu.be/XCAIqGLQwq0",
     "percentToQualify": 56,
     "password": "Not Copyable",
     "records": [
         {
-            "user": "huntzz",
+            "user": "Editorial",
             "link": "https://www.youtube.com/watch?v=jztgGNpNxW8&feature=youtu.be",
-            "percent": 60,
+            "percent": 100,
             "hz": 360
         }
         

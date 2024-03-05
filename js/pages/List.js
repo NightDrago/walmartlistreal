@@ -58,7 +58,7 @@ export default {
                     <ul class="stats">
                         <li>
                             <div class="type-title-sm">Song</div>
-                            <p>in progress</p>
+                            <p><a href="https://github.com/editorial50/WalmartList/issues/5#issuecomment-1977946119" target="_blank"><u>in progress</u></a></p>
                         </li>
                     </ul>
                     <h2>Records</h2>

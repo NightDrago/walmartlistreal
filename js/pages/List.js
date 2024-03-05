@@ -54,6 +54,8 @@ export default {
                             <div class="type-title-sm">Password</div>
                             <p>{{ level.password || 'Free to Copy' }}</p>
                         </li>
+                    </ul>
+                    <ul class="level" v-if="level">
                         <li>
                             <div class="type-title-sm">Song</div>
                             <p>{{ level.song-title }}</p>

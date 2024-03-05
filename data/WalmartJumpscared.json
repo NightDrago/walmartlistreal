@@ -8,14 +8,14 @@
     "percentToQualify": 56,
     "password": "Free To Copy",
     "records": [
-        {
+          {
             "user": "Ultrobro",
-            "link": "https://youtu.be/9hUzmXLo4zU",
+            "link": "https://youtu.be/X10OcwuIt9o?si=jGG2ws71HoV2-CtF",
             "percent": 100,
-            "hz": 60,
+            "hz": 60
             "mobile": "true"
         }
 
-
-]
+        
+    ]
 }

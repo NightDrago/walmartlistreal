@@ -1,0 +1,19 @@
+{
+    "id": 95854076,
+    "name": "Walmart Drugs",
+    "author": "Mini",
+    "creators": ["Mini"],
+    "verifier": "Editorial",
+    "verification": "https://youtu.be/XCAIqGLQwq0",
+    "percentToQualify": 56,
+    "password": "Not Copyable",
+    "records": [
+        {
+            "user": "huntzz",
+            "link": "https://www.youtube.com/watch?v=jztgGNpNxW8&feature=youtu.be",
+            "percent": 60,
+            "hz": 360
+        }
+        
+    ]
+}

@@ -58,7 +58,7 @@ export default {
                     <ul class="stats">
                         <li>
                             <div class="type-title-sm">Song</div>
-                            <p>{{ level.song-name }}</p>
+                            <p>{{ level.song-title }}</p>
                         </li>
                     </ul>
                     <h2>Records</h2>

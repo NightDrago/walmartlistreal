@@ -58,7 +58,7 @@ export default {
                     <ul class="stats">
                         <li>
                             <div class="type-title-sm">Song</div>
-                            <p><u><a href="https://cdn.discordapp.com/attachments/1213917728788717609/1214396638181851136/1266014.mp3?ex=65f8f600&is=65e68100&hm=8e6c733bf2f50ee82b559d3300d5a3b12e5d752818dbbd5dcfbd66b3aaafc19e&">test</a></u></p>
+                            <p><u><a href={{song-link}}>{{song-title}}</a></u></p>
                         </li>
                     </ul>
                     <h2>Records</h2>

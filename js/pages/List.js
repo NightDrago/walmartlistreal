@@ -58,7 +58,8 @@ export default {
                     <ul class="stats">
                         <li>
                             <div class="type-title-sm">Song</div>
-                            <p><a href={{ level.song-link }} target="_blank"><u>{{ level.song-title }}</u></a></p>s
+                            <p><a :href="level['song-link']" target="_blank"><u>{{ level['song-title'] }}</u></a></p>
+
                         </li>
                     </ul>
                     <h2>Records</h2>

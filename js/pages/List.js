@@ -39,7 +39,7 @@ export default {
             <div class="level-container">
                 <div class="level" v-if="level">
                     <h1>{{ level.name }}</h1>
-                    <LevelAuthors :author="level.author" :creators="level.creators" :verifier="level.verifier"></LevelAuthors>
+                    <LevelAuthors :author="level.author" :creators="level.creators" :verifier="level.verifier" :song-title="level.song-title" :song-link="level.song-link"></LevelAuthors>
                     <iframe class="video" id="videoframe" :src="video" frameborder="0"></iframe>
                     <ul class="stats">
                         <li>
@@ -58,7 +58,7 @@ export default {
                     <ul class="stats">
                         <li>
                             <div class="type-title-sm">Song</div>
-                            <p><a href="https://github.com/editorial50/WalmartList/issues/5#issuecomment-1977946119" target="_blank"><u>in progress</u></a></p>
+                            <p><a href={{ level.song-link }} target="_blank"><u>{{level.song-link}}</u></a></p>
                         </li>
                     </ul>
                     <h2>Records</h2>

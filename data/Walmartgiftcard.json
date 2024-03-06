@@ -8,6 +8,14 @@
     "percentToQualify": 56,
     "password": "No Password",
     "records": [
+                          {
+            "user": "Ultrobro",
+            "link": "https://youtu.be/MqcBRCbu0Ms?si=P538ociryhyZ6OsM",
+            "percent": 100,
+            "hz": 60,
+            "mobile": "true"
+        }
+
         
     ]
 }

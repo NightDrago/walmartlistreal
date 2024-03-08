@@ -9,6 +9,13 @@
     "password": "No Password",
     "song-title": "Veletomo - Apricot Special",
     "records": [
-    
+        
+     {
+            "user": "Editorial",
+            "link": "https://youtu.be/SoQQwWrpFHI",
+            "percent": 100,
+            "hz": 360
+        }
+        
     ]
 }

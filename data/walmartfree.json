@@ -8,7 +8,14 @@
     "percentToQualify": 70,
     "password": "No Password",
     "song-title": "Back on Track",
-    "records": [
-    
+    "records": [    
+        
+      {
+            "user": "Editorial",
+            "link": "https://youtu.be/ontFAoCo_II",
+            "percent": 100,
+            "hz": 360
+        }
+
     ]
 }

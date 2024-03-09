@@ -9,6 +9,13 @@
     "password": "No Password",
     "song-title": "NK - Poltergeist (Old Mix)",
     "records": [ 
-      
+        
+        {
+            "user": "Editorial",
+            "link": "https://youtu.be/ontFAoCo_II",
+            "percent": 100,
+            "hz": 360
+        }
+        
     ]
 }

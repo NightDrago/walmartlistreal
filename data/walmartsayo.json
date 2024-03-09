@@ -9,6 +9,12 @@
     "password": "No Password",
     "song-title": "NK - Poltergeist (Old Mix)",
     "records": [
+        {
+            "user": "Vanious",
+            "link": "https://youtu.be/ygreoZDIgqg",
+            "percent": 100,
+            "hz": 240,
+        }
         
     ]
 }

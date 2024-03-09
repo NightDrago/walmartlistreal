@@ -9,6 +9,12 @@
     "password": "Free to Copy",
     "song-title": "cashiers hating their jobs as aliens rob the walmart riddim",
     "records": [
-        
+           
+        {
+            "user": "Vanious",
+            "link": "https://youtu.be/84TBF_CqDNI",
+            "percent": 100,
+            "hz": 240
+        }     
     ]
 }

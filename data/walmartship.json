@@ -9,6 +9,12 @@
     "password": "Free to Copy",
     "song-title": "Xkore - Event Horizon",
     "records": [
-  
+          {
+            "user": "huntzz",
+            "link": "https://www.youtube.com/watch?v=Se2JGcEelc4",
+            "percent": 100,
+            "hz": 360
+        }
+        
     ]
 }

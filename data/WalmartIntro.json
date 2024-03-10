@@ -1,1 +1,18 @@
-[]
+
+    "id": 96767001,
+    "name": "Walmart Intro",
+    "author": "Comic",
+    "creators": [],
+    "verifier": "Comic",
+    "verification": "https://youtu.be/70oE3saaGhY",
+    "percentToQualify": 100,
+    "password": "Free to Copy",
+    "song-title": "Thefatrat - Xenogenesis",
+    "records": [
+        {
+            "user": "Ultrobro",
+            "link": "https://youtu.be/9hUzmXLo4zU",
+            "percent": 100,
+            "hz": 60,
+            "mobile": "true"
+        }

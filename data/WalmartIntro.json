@@ -1,20 +1,21 @@
 {
     "id": 102077818,
     "name": "Walmart Intro",
-    "author": "Vanious",
-    "creators": ["Vanious"],
-    "verifier": "Vanious",
+    "author": "Comic",
+    "creators": [],
+    "verifier": "Comic",
     "verification": "https://youtu.be/njJjDsCOCj4 ",
-    "percentToQualify": 70,
+    "percentToQualify": 100,
     "password": "No Password",
-    "song-title": "Back on Track",
+    "song-title": "Thefatrat - Xenogenesis",
     "records": [    
         
       {
-            "user": "Editorial",
+            "user": "Ultrobro",
             "link": "https://youtu.be/ontFAoCo_II",
             "percent": 100,
-            "hz": 360
+            "hz": 60
+            "mobile": True
         }
 
     ]

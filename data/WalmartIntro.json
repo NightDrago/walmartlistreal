@@ -15,7 +15,7 @@
             "link": "https://youtu.be/ontFAoCo_II",
             "percent": 100,
             "hz": 60
-            "mobile": True
+            "mobile": "True"
         }
 
     ]

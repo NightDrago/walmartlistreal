@@ -22,7 +22,15 @@
             "link": "https://youtu.be/84TBF_CqDNI",
             "percent": 100,
             "hz": 240
-        }
+        },
+                {
+            "user": "Ultrobro",
+            "link": "https://youtu.be/84TBF_CqDNI",
+            "percent": 100,
+            "hz": 60
+            "mobile" "true"
+        },
+        
         
     ]
 }

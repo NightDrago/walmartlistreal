@@ -14,7 +14,12 @@
             "user": "Vanious",
             "link": "https://youtu.be/84TBF_CqDNI",
             "percent": 100,
-            "hz": 240
-        }     
+            "hz": 240,
+        },
+        {
+            "user": "TacoJed"
+            "link": "https://www.youtube.com/watch?v=KP0l313mmvA"
+            "percent" 100,
+            "hz": 240,
     ]
 }

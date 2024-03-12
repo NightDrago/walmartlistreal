@@ -13,27 +13,6 @@ const roleIconMap = {
     dev: "code",
     trial: "user-lock",
 };
-async function copyID() {
-    // Get the text field
-    var copyText = document.getElementById("{{ level.id }}");
-
-    // Select the text field
-    copyText.select();
-    copyText.setSelectionRange(0, 99999); // For mobile devices
-
-    try {
-        // Copy the text inside the text field
-        await navigator.clipboard.writeText(copyText.value);
-
-        // Alert the copied text
-        alert("Copied ID!");
-    } catch (error) {
-        // Handle any errors that might occur during copying
-        console.error('Failed to copy ID:', error);
-    }
-}
-
-
 
 export default {
     components: { Spinner, LevelAuthors },
@@ -69,7 +48,7 @@ export default {
                         </li>
                         <li>
                             <div class="type-title-sm">ID</div>
-                            <button @click="copyID">Copy ID</button>
+                            <p>{{ level.id }} </p>
                         </li>
                         <li>
                             <div class="type-title-sm">Password</div>

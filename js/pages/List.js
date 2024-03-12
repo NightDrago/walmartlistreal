@@ -14,20 +14,26 @@ const roleIconMap = {
     trial: "user-lock",
 };
 
-function copyID() {
+async function copyID() {
     // Get the text field
     var copyText = document.getElementById("myInput");
-  
+
     // Select the text field
     copyText.select();
     copyText.setSelectionRange(0, 99999); // For mobile devices
-  
-     // Copy the text inside the text field
-    navigator.clipboard.writeText(copyText.value);
-  
-    // Alert the copied text
-    alert("Copied ID!");
-  }
+
+    try {
+        // Copy the text inside the text field
+        await navigator.clipboard.writeText(copyText.value);
+
+        // Alert the copied text
+        alert("Copied ID!");
+    } catch (error) {
+        // Handle any errors that might occur during copying
+        console.error('Failed to copy ID:', error);
+    }
+}
+
 
 export default {
     components: { Spinner, LevelAuthors },

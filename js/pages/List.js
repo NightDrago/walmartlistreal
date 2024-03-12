@@ -69,7 +69,7 @@ export default {
                         </li>
                         <li>
                             <div class="type-title-sm">ID</div>
-                            <button @click="copyID()">{{ level.id }}</button>
+                            <button @click="copyID">Copy ID</button>
                         </li>
                         <li>
                             <div class="type-title-sm">Password</div>

@@ -13,10 +13,9 @@ const roleIconMap = {
     dev: "code",
     trial: "user-lock",
 };
-
 async function copyID() {
     // Get the text field
-    var copyText = document.getElementById("myInput");
+    var copyText = document.getElementById("{{ level.id }}");
 
     // Select the text field
     copyText.select();
@@ -33,6 +32,7 @@ async function copyID() {
         console.error('Failed to copy ID:', error);
     }
 }
+
 
 
 export default {
@@ -167,6 +167,7 @@ export default {
         roleIconMap,
         store
     }),
+    
     computed: {
         level() {
             return this.list[this.selected][0];

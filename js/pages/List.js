@@ -48,7 +48,7 @@ export default {
                         </li>
                         <li>
                             <div class="type-title-sm">ID</div>
-                            <p>{{ level.id }}</p>
+                            <button onclick="copyID()">{{ level.id }}</button>
                         </li>
                         <li>
                             <div class="type-title-sm">Password</div>

@@ -16,6 +16,13 @@
             "percent": 100,
             "hz": 60,
             "mobile": "True"
+        },
+        
+          {
+            "user": "Editorial",
+            "link": "https://youtu.be/xxYfJveyJLA",
+            "percent": 100,
+            "hz": 360
         }
     ]
 }

@@ -10,9 +10,8 @@ const scale = 0;
  */
 function calculateMinimumPoints(rank) {
     // Adjust the exponential function parameters to fit your desired decrease
-    return Math.round(500 - 200 * Math.exp(-0.02 * rank));
+    return Math.round(500 * Math.exp(-0.02 * rank));
 }
-
 
 /**
  * Calculate the score awarded when having a certain percentage on a list level

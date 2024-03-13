@@ -10,7 +10,7 @@ const scale = 0;
  */
 function calculateMinimumPoints(rank) {
     // Adjust the exponential function parameters to fit your desired decrease
-    return Math.round(300 * Math.exp(-0.03 * rank));
+    return Math.round(300 * Math.exp(-0.025 * rank));
 }
 
 /**

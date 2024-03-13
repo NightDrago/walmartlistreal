@@ -4,13 +4,13 @@
 const scale = 0;
 
 /**
- * Calculate the minimum points based on the rank
+ * Calculate the minimum points based on the rank exponentially decreasing
  * @param {Number} rank Position on the list
  * @returns {Number} Minimum points for the given rank
  */
 function calculateMinimumPoints(rank) {
-    // Set minimum points for the lowest rank to 300
-    return Math.max(300, 500 - (rank - 1) * 10);
+    // Adjust the exponential function parameters to fit your desired decrease
+    return Math.round(500 * Math.exp(-0.02 * rank));
 }
 
 /**

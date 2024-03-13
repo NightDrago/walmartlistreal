@@ -9,6 +9,13 @@
     "password": "Free to Copy",
     "song-title": " <Loop> ",
     "records": [
+
+         {
+            "user": "Editorial",
+            "link": "https://youtu.be/L2ycSD0dZjE",
+            "percent": 100,
+            "hz": 360
+        }
         
     ]
 }

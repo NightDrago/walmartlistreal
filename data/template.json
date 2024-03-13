@@ -44,4 +44,15 @@ easy copy and paste for levels and each player
             "hz": 60,
             "mobile": "True"
         }
-
+     {
+            "user": "skiptracingclub",
+            "link": "https://youtu.be/mrRiBKuSiXM",
+            "percent": 100,
+            "hz": 240
+        }
+        {
+            "user": "TacoJed",
+            "link": "https://www.youtube.com/watch?v=LmKY8qWEhFo",
+            "percent": 100,
+            "hz": 240
+        }

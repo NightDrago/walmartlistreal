@@ -13,5 +13,13 @@ easy copy and paste for levels and each player
     "song-title": "  ",
     "records": [
         
+         {
+            "user": "huntzz",
+            "link": "https://youtu.be/aqZ20WOTfR0",
+            "percent": 100,
+            "hz": 360
+        }
+
+        
     ]
 }

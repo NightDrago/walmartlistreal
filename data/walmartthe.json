@@ -8,7 +8,12 @@
     "percentToQualify": "60",
     "password": "Free to Copy",
     "song-title": "Cyclone",
-    "records": [
- https://youtu.be/pRqJZ2HJfpI
+    "records": [   
+        {
+            "user": "Editorial",
+            "link":  "https://youtu.be/pRqJZ2HJfpI",
+            "percent": 100,
+            "hz": 360
+        }
     ]
 }

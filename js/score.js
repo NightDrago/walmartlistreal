@@ -4,6 +4,16 @@
 const scale = 0;
 
 /**
+ * Calculate the minimum points based on the rank
+ * @param {Number} rank Position on the list
+ * @returns {Number} Minimum points for the given rank
+ */
+function calculateMinimumPoints(rank) {
+    // Set minimum points for the lowest rank to 300
+    return Math.max(300, 500 - (rank - 1) * 10);
+}
+
+/**
  * Calculate the score awarded when having a certain percentage on a list level
  * @param {Number} rank Position on the list
  * @param {Number} percent Percentage of completion
@@ -18,14 +28,15 @@ export function score(rank, percent, minPercent) {
         return 0;
     }
 
+    let minimumPoints = calculateMinimumPoints(rank);
+
     // Old formula
     /*
     let score = (100 / Math.sqrt((rank - 1) / 50 + 0.444444) - 50) *
         ((percent - (minPercent - 1)) / (100 - (minPercent - 1)));
     */
     // New formula
-    let score = (-24.9975*Math.pow(rank-1, 0.4) + 500) *
-        ((percent - (minPercent - 1)) / (100 - (minPercent - 1)));
+    let score = (-24.9975 * Math.pow(rank - 1, 0.4) + minimumPoints) * ((percent - (minPercent - 1)) / (100 - (minPercent - 1)));
 
     score = Math.max(0, score);
 

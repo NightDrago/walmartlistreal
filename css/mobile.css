@@ -1,17 +1,15 @@
+/* CSS adjustments for smaller screens */
 @media screen and (max-width: 768px) {
-    
-    /* CSS adjustments for smaller screens */
     header .logo {
         display: block;
         text-align: center;
     }
-    
+
     header .logo img {
         margin: 0 auto;
     }
-    
+
     header h2 {
         margin: 0;
     }
-
 }

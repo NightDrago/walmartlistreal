@@ -1,9 +1,24 @@
-Level: Walmart List Spam
-Creators: me
-Verifier: me
-Fps used by verifier + Physics bypass on or off: 240
-Verifier name for list: TacoJed
-Placement (difficulty + possible list #): like 28-30
-ID: 102390732
-Password (if none, say free): free
-Video: https://www.youtube.com/watch?v=120w4yiRW_s
+{
+    "id": 102390732,
+    "name": "Walmart List Spam",
+    "author": "TacoJed",
+    "creators": ["TacoJed"],
+    "verifier": "TacoJed",
+    "verification": "https://www.youtube.com/watch?v=120w4yiRW_s",
+    "percentToQualify": 56,
+    "password": "Free to Copy",
+    "song-title": "  ",
+    "records": [
+    ]
+}
+
+
+
+
+          {
+            "user": "Vanious",
+            "link": "https://www.youtube.com/watch?v=_ZuTNSLTwPw",
+            "percent": 100,
+            "hz": 240
+        }
+    

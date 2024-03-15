@@ -42,8 +42,8 @@ export default {
                     <LevelAuthors :author="level.author" :creators="level.creators" :verifier="level.verifier" :song-title="level.song-title" :song-link="level.song-link"></LevelAuthors>
                     <iframe class="video" id="videoframe" :src="video" frameborder="0"></iframe>
                     <h2>Level Type: {{ level.type }}
-                        v-if=""
-                        Level Type: work in progress
+                            v-for level.type if level.type=""
+                            Level Type: work in progress
                     </h2>
                     <ul class="stats">
                         <li>

@@ -41,10 +41,6 @@ export default {
                     <h1>{{ level.name }}</h1>
                     <LevelAuthors :author="level.author" :creators="level.creators" :verifier="level.verifier" :song-title="level.song-title" :song-link="level.song-link"></LevelAuthors>
                     <iframe class="video" id="videoframe" :src="video" frameborder="0"></iframe>
-                    <h2>Level Type: {{ level.type }}
-                            v-for level.type if level.type=""
-                            Level Type: work in progress
-                    </h2>
                     <ul class="stats">
                         <li>
                             <div class="type-title-sm">Points when completed</div>

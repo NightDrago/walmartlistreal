@@ -9,16 +9,12 @@
     "password": "Free to Copy",
     "song-title": "  ",
     "records": [
-    ]
-}
 
-
-
-
-          {
+         {
             "user": "Vanious",
             "link": "https://www.youtube.com/watch?v=_ZuTNSLTwPw",
             "percent": 100,
             "hz": 240
         }
-    
+      ]
+}

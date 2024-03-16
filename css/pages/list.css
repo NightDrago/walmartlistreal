@@ -1,43 +1,35 @@
-/* Separate categories for levels */
-.page-list .category {
-    margin-bottom: 2rem; /* Adjust margin as needed */
-}
-
-.page-list .category-title {
-    font-weight: bold;
-    font-size: 1.2rem; /* Adjust size as needed */
-    margin-bottom: 1rem; /* Adjust margin as needed */
-}
-
-/* Example styling for each category */
-.page-list .beginner {
-    color: green; /* Adjust color as needed */
-}
-
-.page-list .intermediate {
-    color: blue; /* Adjust color as needed */
-}
-
-.page-list .advanced {
-    color: red; /* Adjust color as needed */
-}
-
-/* Example usage of category classes */
 <div class="page-list">
     <div class="category beginner">
         <div class="category-title">Beginner Levels</div>
-        <!-- Levels for beginners -->
+        <div class="level">
+            <button>Beginner Level 1</button>
+        </div>
+        <div class="level">
+            <button>Beginner Level 2</button>
+        </div>
+        <!-- Add more beginner levels here -->
     </div>
     <div class="category intermediate">
         <div class="category-title">Intermediate Levels</div>
-        <!-- Levels for intermediates -->
+        <div class="level">
+            <button>Intermediate Level 1</button>
+        </div>
+        <div class="level">
+            <button>Intermediate Level 2</button>
+        </div>
+        <!-- Add more intermediate levels here -->
     </div>
     <div class="category advanced">
         <div class="category-title">Advanced Levels</div>
-        <!-- Levels for advanced -->
+        <div class="level">
+            <button>Advanced Level 1</button>
+        </div>
+        <div class="level">
+            <button>Advanced Level 2</button>
+        </div>
+        <!-- Add more advanced levels here -->
     </div>
 </div>
-
 .page-list .list-container,
 .page-list .level-container,
 .page-list .meta-container {

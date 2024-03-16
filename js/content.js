@@ -121,18 +121,4 @@ export async function fetchLeaderboard() {
 
     // Sort by total score
     return [res.sort((a, b) => b.total - a.total), errs];
-
-    // Function to generate HTML for level buttons including section dividers
-function generateLevelButtons(levels) {
-    let html = '';
-    levels.forEach(level => {
-        // Check if this level is a section divider
-        if (level.isDivider) {
-            html += `<div class="divider">${level.name}</div>`;
-        } else {
-            html += `<button>${level.name}</button>`;
-        }
-    });
-    return html;
-}
 }

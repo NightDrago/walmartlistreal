@@ -37,7 +37,7 @@ export default {
                 </table>
             </div>
             <div class="level-container">
-                <div class="level" v-if="level" && "level.id!=0>
+                <div class="level" v-if="level" && "level.id!=0">
                     <h1>{{ level.name }}</h1>
                     <LevelAuthors :author="level.author" :creators="level.creators" :verifier="level.verifier" :song-title="level.song-title" :song-link="level.song-link"></LevelAuthors>
                     <iframe class="video" id="videoframe" :src="video" frameborder="0"></iframe>

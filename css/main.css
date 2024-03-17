@@ -31,7 +31,7 @@ body {
 body {
     display: flex;
     flex-direction: column;
-    margin: 3;
+    margin: 20;
 }
 
 header,

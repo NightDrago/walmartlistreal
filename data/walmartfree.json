@@ -15,7 +15,14 @@
             "link": "https://youtu.be/ontFAoCo_II",
             "percent": 100,
             "hz": 360
+        },        
+      {
+            "user": "Tacojed",
+            "link": "https://www.youtube.com/watch?v=Na7IlMmXPxU",
+            "percent": 100,
+            "hz": 240
         }
+
 
     ]
 }

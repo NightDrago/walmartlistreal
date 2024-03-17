@@ -94,3 +94,7 @@ input[type="checkbox"] {
     cursor: pointer;
     margin: 0;
 }
+
+.level-container {
+    margin-top: 20px; /* Adjust the value as needed */
+}

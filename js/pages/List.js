@@ -38,6 +38,7 @@ export default {
                 </table>
             </div>
             <div class="level-container">
+                <br>
                 <div class="level" v-if="level && level.id!=0">
                     <h1>{{ level.name }}</h1>
                     <LevelAuthors :author="level.author" :creators="level.creators" :verifier="level.verifier" :song-title="level.song-title" :song-link="level.song-link"></LevelAuthors>
@@ -101,6 +102,7 @@ export default {
                         <p class="error" v-for="error of errors">{{ error }}</p>
                     </div>
                     <div class="og">
+                        <br>
                         <p class="type-label-md">Website layout made by <a href="https://tsl.pages.dev/" target="_blank"><u>TheShittyList</u></a></p>
                     </div>
                     <div class="og">

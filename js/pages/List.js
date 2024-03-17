@@ -102,7 +102,7 @@ export default {
                         <p class="error" v-for="error of errors">{{ error }}</p>
                     </div>
                     <div class="og">
-                        <br>
+                        <br> <br>
                         <p class="type-label-md">Website layout made by <a href="https://tsl.pages.dev/" target="_blank"><u>TheShittyList</u></a></p>
                     </div>
                     <div class="og">

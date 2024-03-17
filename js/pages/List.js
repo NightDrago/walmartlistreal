@@ -88,7 +88,7 @@ export default {
                         </tr>
                     </table>
                 </div>
-                <div v-else-if="level.id==0" class="level" style="height: 100%; justify-content: center; align-items: center;">
+                <div v-else-if="level.id=0" class="level" style="height: 100%; justify-content: center; align-items: center;">
                     <h1>{{ level.name }}</h1>
                     <p>The levels below are {{ level.name.replace("(", "").replace(")", "") }}.</p>
                 </div>

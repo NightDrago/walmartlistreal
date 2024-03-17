@@ -16,14 +16,14 @@ const roleIconMap = {
 
 methods: {
     // Function to check if the user is forbidden
-   // isForbiddenUser(user) {
+   isForbiddenUser(user) {
         // Define your list of forbidden users here
         const forbiddenUsers = ["Ultrobro"]; // Add your list of forbidden users here
 
         // Check if the user exists in the forbidden users list
         return forbiddenUsers.includes(user);
     }
-//};
+};
 
 
 export default {

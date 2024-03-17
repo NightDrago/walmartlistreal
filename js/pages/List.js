@@ -103,7 +103,7 @@ export default {
                     </div>
                     <div class="og">
                         <br> <br>
-                        <p class="type-label-md">Website layout made by <a href="https://tsl.pages.dev/" target="_blank"><u>TheShittyList</u></a></p>
+                        <p class="type-label-md">Website layout made by <a href="https://tsl.pages.dev/" target="_blank"><u>TheShittyList</u></a>. Some code from <a href="https://laylist.pages.dev/" target="_blank"><u>The Layout List</u></a>.</p>
                     </div>
                     <div class="og">
                         <p class="type-label-md">Find a bug in the website? <a href="https://github.com/editorial50/WalmartList/issues/3" target="_blank"><u>Report it</u></a> here!<br> 

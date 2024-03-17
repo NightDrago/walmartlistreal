@@ -69,7 +69,7 @@ export default {
                     <p v-else-if="selected +1 <= 150"><strong>100%</strong> or better to qualify</p>
                     <p v-else>This level does not accept new records.</p>
                     <table class="records">
-                        <tr v-for="record in level.records" class="record" v-if="!isForbiddenUser(record.user)">
+                        <tr v-for="record in level.records" class="record">
                             <td class="percent">
                                 <p>{{ record.percent }}%</p>
                             </td>
@@ -151,17 +151,6 @@ export default {
         roleIconMap,
         store
     }),
-   
-   methods: {
-    // Function to check if the user is forbidden
-   isForbiddenUser(user) {
-        // Define your list of forbidden users here
-        const forbiddenUsers = ["Ultrobro"]; // Add your list of forbidden users here
-
-        // Check if the user exists in the forbidden users list
-        return forbiddenUsers.includes(user);
-    }
-};
     
     computed: {
         level() {

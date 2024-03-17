@@ -14,18 +14,6 @@ const roleIconMap = {
     trial: "user-lock",
 };
 
-methods: {
-    // Function to check if the user is forbidden
-   isForbiddenUser(user) {
-        // Define your list of forbidden users here
-        const forbiddenUsers = ["Ultrobro"]; // Add your list of forbidden users here
-
-        // Check if the user exists in the forbidden users list
-        return forbiddenUsers.includes(user);
-    }
-};
-
-
 export default {
     components: { Spinner, LevelAuthors },
     template: `
@@ -163,6 +151,17 @@ export default {
         roleIconMap,
         store
     }),
+   
+   methods: {
+    // Function to check if the user is forbidden
+   isForbiddenUser(user) {
+        // Define your list of forbidden users here
+        const forbiddenUsers = ["Ultrobro"]; // Add your list of forbidden users here
+
+        // Check if the user exists in the forbidden users list
+        return forbiddenUsers.includes(user);
+    }
+};
     
     computed: {
         level() {

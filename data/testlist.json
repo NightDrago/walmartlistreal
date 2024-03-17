@@ -1,8 +1,6 @@
-/*easy copy and paste for levels and each player*/,
-
 {
     "id": 0 ,
-    "name": "The List",
+    "name": "Testing",
     "author": "",
     "creators": [""],
     "verifier": "",
@@ -11,48 +9,7 @@
     "password": "Free to Copy",
     "song-title": "  ",
     "records": [
-        {
-            "user": "huntzz",
-            "link": "https://youtu.be/aqZ20WOTfR0",
-            "percent": 100,
-            "hz": 360
-        },
-
-         {
-            "user": "Editorial",
-            "link": "https://youtu.be/vo0dhY6_Ibw",
-            "percent": 100,
-            "hz": 360
-        },
-
-          {
-            "user": "Vanious",
-            "link": "https://youtu.be/ygreoZDIgqg",
-            "percent": 100,
-            "hz": 240
-        },
-        {
-            "user": "Ultrobro",
-            "link": "https://youtu.be/0npKdqX1t7A?si=NS63MhIEqgm5b_yA",
-            "percent": 100,
-            "hz": 60,
-            "mobile": "True"
-        },
-     {
-            "user": "skiptracingclub",
-            "link": "https://youtu.be/mrRiBKuSiXM",
-            "percent": 100,
-            "hz": 240
-        },
-        {
-            "user": "TacoJed",
-            "link": "https://www.youtube.com/watch?v=LmKY8qWEhFo",
-            "percent": 100,
-            "hz": 240
-        }
     ]
-    
-    /*make sure the last record in the list has no comma after the }*/,
 }
 
 

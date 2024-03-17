@@ -1,7 +1,6 @@
-/*easy copy and paste for levels and each player*/,
-
 {
-    "id": 00000000 ,
+    
+    "id": 123456789,
     "name": "Walmart ",
     "author": "",
     "creators": [""],
@@ -51,8 +50,6 @@
             "hz": 240
         }
     ]
-    
-    /*make sure the last record in the list has no comma after the }*/,
 }
 
 

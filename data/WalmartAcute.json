@@ -2,19 +2,14 @@
     "id": 98625204,
     "name": "Walmart Acute",
     "author": "Ultrobro",
-    "creators": [],
-    "verifier": "Ultrobro",
-    "verification": "https://www.youtube.com/watch?v=-2dZ93XH45g",
+    "creators": ["Ultrobro"],
+    "verifier": "Editorial",
+    "verification": "https://youtu.be/QHr7cTwH47U",
     "percentToQualify": "89",
     "password": "",
     "song-title": "Creo - Epilogue",
     "records": [
-        {
-            "user": "Editorial",
-            "link": "https://youtu.be/QHr7cTwH47U",
-            "percent": 100,
-            "hz": 360
-        },
+        
         {
             "user": "skiptracingclub",
             "link": "https://youtu.be/mrRiBKuSiXM",

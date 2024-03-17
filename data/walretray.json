@@ -2,19 +2,13 @@
     "id": 101835981,
     "name": "Walmart Retray",
     "author": "Ultrobro",
-    "creators": [],
-    "verifier": "Ultrobro",
-    "verification": "https://youtu.be/5YQyH6ofV18?si=m7jcLMcwkDOl4pKl",
+    "creators": ["Ultrobro"],
+    "verifier": "Editorial",
+    "verification": "https://youtu.be/1k2FqLjqRI4",
     "percentToQualify": 100,
     "password": "No Password",
     "song-title": "Detious - Golden Haze (prev)",
     "records": [
-      {
-            "user": "Editorial",
-            "link": "https://youtu.be/1k2FqLjqRI4",
-            "percent": 100,
-            "hz": 360
-        },
         {
             "user": "skiptracingclub",
             "link": "https://youtu.be/mrRiBKuSiXM",

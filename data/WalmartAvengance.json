@@ -3,19 +3,14 @@
     "name": "Walmart Avengance",
     "author": "Ultrobro",
     "creators": ["Trilism"],
-    "verifier": "Ultrobro",
-    "verification": "https://youtu.be/Ziz_apGD9FI?si=GZMMbsT3zQtvPUMY",
+    "verifier": "Editorial",
+    "verification": "https://youtu.be/tqiJDxsA4jo",
     "percentToQualify": 56,
     "password": "005315",
     "song-title": "nplsm - return (slowed)",
     "records": [
         
-          {
-            "user": "Editorial",
-            "link": "https://youtu.be/tqiJDxsA4jo",
-            "percent": 100,
-            "hz": 360
-        }
+          
 
         
     ]

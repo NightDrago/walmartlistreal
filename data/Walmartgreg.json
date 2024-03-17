@@ -3,19 +3,11 @@
     "name": "Walmart Gregregation",
     "author": "Ultrobro",
     "creators": ["Ultrobro", "Cluncherp"],
-    "verifier": "Ultrobro",
-    "verification": "https://youtu.be/-ffSHfRuJ8g",
+    "verifier": "Editorial",
+    "verification": "https://youtu.be/vo0dhY6_Ibw",
     "percentToQualify": 100,
     "password": "",
     "song-title": "Koraii - Purgatori",
     "records": [
-        
-        {
-            "user": "Editorial",
-            "link": "https://youtu.be/vo0dhY6_Ibw",
-            "percent": 100,
-            "hz": 360
-        }
-        
     ]
 }

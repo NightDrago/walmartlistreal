@@ -69,7 +69,7 @@ export default {
                     <p v-else-if="selected +1 <= 150"><strong>100%</strong> or better to qualify</p>
                     <p v-else>This level does not accept new records.</p>
                     <table class="records">
-                        <tr v-for="record in level.records" v-if="record.user !=Ultrobro" class="record">
+                        <tr v-for="record in level.records" v-if="record.user!=Ultrobro" class="record">
                             <td class="percent">
                                 <p>{{ record.percent }}%</p>
                             </td>

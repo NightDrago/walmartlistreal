@@ -53,8 +53,8 @@ export default {
                             <p>{{ level.id }} </p>
                         </li>
                         <li>
-                            <div class="type-title-sm">Password</div>
-                            <p>{{ level.password || 'Free to Copy' }}</p>
+                            <div class="type-title-sm">Fps</div>
+                            <p>{{ level.password|| 'Any' }}</p>
                         </li>
                     </ul>
                     <ul class="stats">

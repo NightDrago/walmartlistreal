@@ -37,7 +37,7 @@ export default {
                 </table>
             </div>
             <div class="level-container">
-                <div class="level" v-if="level && level.id!=0">
+                <div class="level" v-if="level.id!=0">
                     <h1>{{ level.name }}</h1>
                     <LevelAuthors :author="level.author" :creators="level.creators" :verifier="level.verifier" :song-title="level.song-title" :song-link="level.song-link"></LevelAuthors>
                     <iframe class="video" id="videoframe" :src="video" frameborder="0"></iframe>
@@ -84,7 +84,7 @@ export default {
                             </td>
                         </tr>
                     </table>
-                </div>
+                
                 <div v-else-if="level.id==0" class="level" style="height: 100%; justify-content: center; align-items: center;">
                     <h1>{{ level.name }}</h1>
                     <p>The levels below are {{ level.name.replace("(", "").replace(")", "") }}.</p>
@@ -92,6 +92,7 @@ export default {
                 <div v-else class="level" style="height: 100%; justify-content: center; align-items: center;">
                     <p>(ノಠ益ಠ)ノ彡┻━┻</p>
             </div>
+        </div>
             <div class="meta-container">
                 <div class="meta">
                     <div class="errors" v-show="errors.length > 0">

@@ -95,6 +95,10 @@ input[type="checkbox"] {
     margin: 0;
 }
 
+.list-container {
+    margin-bottom: 20px; /* Adjust the value as needed */
+}
+
 .level-container {
     margin-top: 20px; /* Adjust the value as needed */
 }

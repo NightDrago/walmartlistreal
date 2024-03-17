@@ -96,9 +96,9 @@ input[type="checkbox"] {
 }
 
 .list-container {
-    margin-bottom: 20px; /* Adjust the value as needed */
+    margin-bottom: 20px !important; /* Adjust the value as needed */
 }
 
 .level-container {
-    margin-top: 20px; /* Adjust the value as needed */
+    margin-top: 20px !important; /* Adjust the value as needed */
 }

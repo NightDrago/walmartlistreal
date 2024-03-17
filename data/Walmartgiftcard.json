@@ -9,13 +9,7 @@
     "password": "No Password",
     "song-title": "Creo - Epilogue",
     "records": [
-                          {
-            "user": "Ultrobro",
-            "link": "https://youtu.be/hhEsyInAFg4?si=OCO2_4Wl3SYYw3vh",
-            "percent": 100,
-            "hz": 60,
-            "mobile": "true"
-        }
+                        
 
         
     ]

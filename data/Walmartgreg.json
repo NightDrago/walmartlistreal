@@ -9,5 +9,14 @@
     "password": "",
     "song-title": "Koraii - Purgatori",
     "records": [
+
+        {
+            "user": "comic",
+            "link": "https://m.youtube.com/watch?v=lUT3mfWDNPU",
+            "percent": 100,
+            "hz": 60
+        }
+
+    ]
     ]
 }

@@ -10,5 +10,12 @@
     "password": "",
     "song-title": "  ",
     "records": [
+        {
+            "user": "DizzyFlakes",
+            "link": "https://clips.twitch.tv/DoubtfulFurtiveChamoisTwitchRPG-ldgKQaTTynA99DYL",
+            "percent": 100,
+            "hz": 240
+        }
+
     ]
 }

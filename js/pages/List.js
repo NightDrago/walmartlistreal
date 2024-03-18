@@ -54,7 +54,7 @@ export default {
                         </li>
                         <li>
                             <div class="type-title-sm" align="right">Fps</div>
-                            <p>{{ level.password|| 'Any' }}</p>
+                            <p>{{ level.refreshRates|| 'Any' }}</p>
                         </li>
                     </ul>
                     <ul class="stats">

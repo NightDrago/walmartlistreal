@@ -133,6 +133,9 @@ export default {
                         The recording must have a previous attempt and entire death animation shown before the completion, unless the completion is on the first attempt. Everyplay records are exempt from this.
                     </p>
                     <p>
+                        You must show yourself exiting a level after you beat it.
+                    </p>
+                    <p>
                         The recording must also show the full endscreen for atleast a frame, or the completion will be invalidated.
                     </p>
                     <p>

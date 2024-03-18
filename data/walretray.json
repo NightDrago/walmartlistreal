@@ -32,6 +32,12 @@
             "link": "https://www.youtube.com/watch?v=bmdF0IVKd1o&feature=youtu.be",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "CxGD",
+            "link": "https://youtu.be/MWm1HL2wz1s",
+            "percent": 100,
+            "hz": 480
         }
     ]
 }

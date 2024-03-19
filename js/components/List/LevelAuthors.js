@@ -21,6 +21,12 @@ export default {
                     <span>{{ verifier }}</span>
                 </p>
             </template>
+            <template v-if="creators[0] = verifier">
+                <div class="type-title-sm">Creator & Verifier</div>
+                <p class="type-body">
+                    <span>{{ verifier }}</span>
+                </p>
+            </template>
             <template v-else-if="creators.length === 1"> <!-- Check if there is only one creator -->
                 <div class="type-title-sm">Creator</div>
                 <p class="type-body">

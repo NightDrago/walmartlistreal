@@ -8,9 +8,21 @@
     "percentToQualify": 60,
     "refreshRates": "",
     "song-title": "Six Impala - LOVELOVELOVELOVELOVELOVE",
-    "records": []
-            
-
+    "records": [
+        {
+            "user": "limitationn",
+            "link": "https://www.youtube.com/watch?v=GfY2hfs7VCo&ab_channel=limitation",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "TacoJed",
+            "link": "https://www.youtube.com/watch?v=Z1fs4DD9uoA",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+         
         
     
 }

@@ -21,7 +21,7 @@ export default {
                     <span>{{ verifier }}</span>
                 </p>
             </template>
-            <template v-elseif="creators = verifier">
+            <template v-else-if="creators = verifier">
                 <div class="type-title-sm">Creator & Verifier</div>
                 <p class="type-body">
                     <span>{{ verifier }}</span>

@@ -31,6 +31,13 @@
             "percent": 100,
             "hz": 480,
             "mobile": false
+        },
+        {
+            "user": "limitationn",
+            "link": "https://www.youtube.com/watch?v=TbbgmZ9drT8",
+            "percent": 100,
+            "hz": 240,
+            "mobile": false
         }
     ]
 }

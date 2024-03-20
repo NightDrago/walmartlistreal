@@ -9,7 +9,12 @@
     "refreshRates": "",
     "song-title": "Nichibotsu",
     "records": [
-            
+        {
+            "user": "DizzyFlakes",
+            "link": "https://www.youtube.com/watch?v=gO8AiaRqhMk",
+            "percent": 100,
+            "hz": 300
+        }
 
         
     ]

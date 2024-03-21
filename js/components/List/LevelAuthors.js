@@ -53,7 +53,8 @@ export default {
 
     computed: {
         selfVerified() {
-            return this.creators.length === 1 && this.creators[0] === this.verifier;
+            return (this.creators.length === 0 && this.verifier !== '') || 
+                   (this.creators.length === 1 && this.creators[0] === this.verifier);
         },
     },
 };

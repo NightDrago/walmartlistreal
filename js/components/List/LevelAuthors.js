@@ -54,6 +54,7 @@ export default {
     computed: {
         selfVerified() {
             return this.creators.length === 0;
+            return this.creators = verifier
         },
     },
 };

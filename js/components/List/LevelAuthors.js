@@ -26,8 +26,8 @@ export default {
                 <p class="type-body">
                     <span>{{ creators[0] }}</span> <!-- Display the first creator -->
                 </p>
-                <div class="type-title-sm">Verifier</div>
-                <p class="type-body">
+                <div class="type-title-sm" v-if="verifier !== creators[0]">Verifier</div> <!-- Only display verifier title if verifier is different -->
+                <p class="type-body" v-if="verifier !== creators[0]">
                     <span>{{ verifier }}</span>
                 </p>
             </template>
@@ -53,8 +53,7 @@ export default {
 
     computed: {
         selfVerified() {
-            return this.creators.length === 0;
-            return this.creators = verifier
+            return this.creators.length === 1 && this.creators[0] === this.verifier;
         },
     },
 };

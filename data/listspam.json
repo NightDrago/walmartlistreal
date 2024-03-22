@@ -27,6 +27,12 @@
             "link": "https://www.youtube.com/watch?v=m_nApyoC2yU",
             "percent": 100,
             "hz": 144
+        },
+        {
+            "user": "DizzyFlakes",
+            "link": "https://youtu.be/ss2blhGqUxU?si=AwrswLsRdSNb1JZl",
+            "percent": 100,
+            "hz": 300
         }
       ]
 }

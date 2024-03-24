@@ -1,0 +1,19 @@
+{
+    "id": 102763757,
+    "name": "WalmartExpiredMilk",
+    "author": "ImGummy2",
+    "creators": [],
+    "verifier": "ImGummy2",
+    "verification": "https://youtu.be/86VOtnEOjZY",
+    "percentToQualify": "67",
+    "refreshRates": "Any",
+    "song-title": "The Milky Bossa",
+    "records": [
+        {
+            "user": "Vanious",
+            "link": "https://youtu.be/uhV_NztKeqA",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}

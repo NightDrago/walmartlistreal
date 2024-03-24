@@ -33,7 +33,14 @@
             "link": "https://www.youtube.com/watch?v=3Lo4qnl317E",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "NotDragon",
+            "link": "https://www.youtube.com/watch?v=HJHyd4V8IJg",
+            "percent": 100,
+            "hz": 720
         }
+
 
     ]
 }

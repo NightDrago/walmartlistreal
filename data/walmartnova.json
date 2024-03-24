@@ -9,5 +9,11 @@
     "refreshRates": "",
     "song-title": "Xtruller - Supernova",
     "records": [
+        {
+            "user": "NotDragon",
+            "link": "https://www.youtube.com/watch?v=7jt0KwfApgg",
+            "percent": 100,
+            "hz": 720
+        }
     ]
 }

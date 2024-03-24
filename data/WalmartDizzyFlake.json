@@ -9,6 +9,11 @@
     "refreshRates": "Any",
     "song-title": "Death Note Dubstep (SB)",
     "records": [
-        
+        {
+            "user": "DizzyFlakes",
+            "link": "https://www.youtube.com/watch?v=RTbVPpulbm4",
+            "percent": 100,
+            "hz": 300
+        }
     ]
 }

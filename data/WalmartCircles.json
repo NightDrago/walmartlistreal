@@ -1,0 +1,19 @@
+{
+    "id": 102396139,
+    "name": "Walmart Circles",
+    "author": "zZealous",
+    "creators": ["zZealous"],
+    "verifier": "NotDragon",
+    "verification": "https://www.youtube.com/watch?v=QPTVR-KtwUQ&ab_channel=IINotDragonII",
+    "percentToQualify": "50",
+    "refreshRates": "Any",
+    "song-title": "NK - Poltergeist (OLD mix)",
+    "records": [
+        {
+            "user": "Vanious",
+            "link": "https://www.youtube.com/watch?v=Kr8zN3W97TY",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}

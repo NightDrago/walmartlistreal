@@ -39,6 +39,13 @@
             "link": "https://youtu.be/wLy_eh3UOBw",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "Eggothediego",
+            "link": "https://youtu.be/Y7IhFw8jnLs?si=KaG6DI9_aUuYRfiI",
+            "percent": 100,
+            "hz": 60,
+            "mobile": "True"
         }
       ]
 }

@@ -59,6 +59,12 @@
             "link": "https://www.youtube.com/watch?v=bCZbnwFwF6k",
             "percent": 100,
             "hz": 720
+        },
+        {
+            "user": "CxGD",
+            "link": "https://www.youtube.com/watch?v=nssyEk7p9aY",
+            "percent": 100,
+            "hz": 360
         }
     ]
 }

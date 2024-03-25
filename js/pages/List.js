@@ -136,13 +136,13 @@ export default {
                         You must show yourself exiting a level after you beat it.
                     </p>
                     <p>
-                        The recording must also show the full endscreen for atleast a frame, or the completion will be invalidated.
+                        The recording must also show the full endscreen for at least 1 frame, or the record will be invalidated.
                     </p>
                     <p>
                         Do not use secret routes or bug routes.
                     </p>
                     <p>
-                        If you have a mod menu that has a cheat indicator function you must turn it on, or the completion will be invalidated. <a href="https://geode-sdk.org/" target="_blank"><u>Geode</u></a> has many free mod menus that have cheat indicators for all platforms (except IOS).
+                        You must have have Cheat Indicator (excluding iOS) and Show FPS turned on, or the record will be invalidated. <a href="https://geode-sdk.org/" target="_blank"><u>Geode</u></a> has many free mod menus that have cheat indicators for all platforms (except iOS).
                     </p>
                                     </div>
             </div>

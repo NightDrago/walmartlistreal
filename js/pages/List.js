@@ -142,7 +142,7 @@ export default {
                         Do not use secret routes or bug routes.
                     </p>
                     <p>
-                        You must have have Cheat Indicator (excluding iOS) and Show FPS turned on, or the record will be invalidated. <a href="https://geode-sdk.org/" target="_blank"><u>Geode</u></a> has many free mod menus that have cheat indicators for all platforms (except iOS).
+                        You must have have Cheat Indicator (excluding iOS) and Show FPS turned on, or the record will be invalidated. <a href="https://geode-sdk.org/" target="_blank"><u>Geode</u></a> has many free mod menus that have cheat indicators for all platforms (except iOS). If you don't know which to choose, <a href="https://geode-sdk.org/mods/firee.PrismMenu/" target="_blank"><u>Prism</u></a> has everything you need.
                     </p>
                                     </div>
             </div>

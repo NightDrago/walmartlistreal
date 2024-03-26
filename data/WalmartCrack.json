@@ -9,6 +9,12 @@
     "refreshRates": "Any",
     "song-title": "I Sell Crack",
     "records": [
+          {
+            "user": "huntzz",
+            "link": "https://www.youtube.com/watch?v=ds7gKGwFuuo",
+            "percent": 100,
+            "hz": 240
+          }
        
     ]
 }

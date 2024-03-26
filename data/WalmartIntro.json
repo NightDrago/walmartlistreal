@@ -65,6 +65,12 @@
             "link": "https://www.youtube.com/watch?v=nssyEk7p9aY",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "forkpic",
+            "link": "https://www.youtube.com/watch?v=KDahak7kPxQ",
+            "percent": 100,
+            "hz": 60
         }
     ]
 }

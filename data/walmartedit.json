@@ -9,5 +9,12 @@
     "refreshRates": "",
     "song-title": "cornandbeans - {rose}",
     "records": [
+        {
+            "user": "Editorial",
+            "link": "https://www.youtube.com/watch?v=Wkxy3-YRyQY&ab_channel=Editorialt&t=1m40s",
+            "percent": 100,
+            "hz": 360
+            
+        }
     ]
 }

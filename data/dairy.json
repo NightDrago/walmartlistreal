@@ -9,5 +9,13 @@
     "refreshRates": "",
     "song-title": "  ",
     "records": [
+
+        {
+            "user": "Editorial",
+            "link": "https://www.youtube.com/watch?v=Wkxy3-YRyQY&ab_channel=Editorialt&t=3m25s",
+            "percent": 100,
+            "hz": 360
+            
+        }
     ]
 }

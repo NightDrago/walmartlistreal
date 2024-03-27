@@ -8,8 +8,14 @@
     "percentToQualify": 69,
     "refreshRates": "any",
     "song-title": "tvroom - Say It Back",
-    "records": [    
+    "records": [  
 
+        {
+            "user": "Editorial",
+            "link": "https://www.youtube.com/watch?v=Wkxy3-YRyQY&ab_channel=Editorialt&t=1m22s",
+            "percent": 100,
+            "hz": 360
+        }
 
 
               ]

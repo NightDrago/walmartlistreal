@@ -51,7 +51,13 @@
        "link": "https://www.youtube.com/watch?v=0tSdSDQPXII",
        "percent": 100,
        "hz": 300
-   }
+       },
+        {
+        "user": "KazakiPL",
+       "link": "https://www.youtube.com/watch?v=PuKgD-WLbGU",
+       "percent": 100,
+       "hz": 144
+       }
     ]
 }
 

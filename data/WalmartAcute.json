@@ -27,6 +27,12 @@
             "link": "https://www.youtube.com/watch?v=lK4oX5neErU",
             "percent": 100,
             "hz": 720
-        }
+        },
+        {
+            "user": "yama",
+            "link": "https://www.youtube.com/watch?v=FOHol-3bDOw",
+            "percent": 100,
+            "hz": 240
+          }
     ]
 }

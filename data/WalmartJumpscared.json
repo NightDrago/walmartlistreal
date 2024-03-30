@@ -51,6 +51,12 @@
             "percent": 100,
             "hz": 60,
             "mobile": "true"
+        },
+        {
+            "user": "NotDragon",
+            "link": "https://www.youtube.com/watch?v=Dk9xkjM8Bi8",
+            "percent": 100,
+            "hz": 720
         }
     ]
 }

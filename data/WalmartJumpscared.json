@@ -44,6 +44,13 @@
             "link": "https://www.youtube.com/watch?v=q3PHzH_wLNE",
             "percent": 100,
             "hz": 240
-          }
+        },
+        {
+            "user": "Eggothediego",
+            "link": "https://www.youtube.com/watch?v=bFoiBRVVGQ8",
+            "percent": 100,
+            "hz": 60
+            "mobile": "true"
+        }
     ]
 }

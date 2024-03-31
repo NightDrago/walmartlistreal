@@ -8,6 +8,19 @@
     "percentToQualify": 100,
     "refreshRates": "any",
     "records": [
+      
+        {
+            "user": "limitationn",
+            "link": "https://www.youtube.com/watch?v=VE43Eou7M94",
+            "percent": 100,
+            "hz": 788
+        },
+        {
+            "user": "NotDragon",
+            "link": "https://www.youtube.com/watch?v=v2BChasPdLM",
+            "percent": 100,
+            "hz": 720
+        }
 
           
 

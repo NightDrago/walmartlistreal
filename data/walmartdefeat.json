@@ -11,6 +11,19 @@
     "song-link": "https://cdn.discordapp.com/attachments/1224094820679815330/1224094821141184642/30.mp3?ex=661c3e23&is=6609c923&hm=4d1d2db67512d2f2a5edff2757563bb96c7a6c5f59bcc1d0ce757590d7c10206&",
     "records": [
 
+        {
+            "user": "limitationn",
+            "link": "https://www.youtube.com/watch?v=Me6mDLwoPtM",
+            "percent": 100,
+            "hz": 788
+        },
+        {
+            "user": "NotDragon",
+            "link": "https://www.youtube.com/watch?v=qLtpJHl0zqQ",
+            "percent": 100,
+            "hz": 720
+        }
+
 
 
 

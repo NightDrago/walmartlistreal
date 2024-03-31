@@ -63,6 +63,12 @@
             "link": "https://www.youtube.com/watch?v=a6Hmvg-1LpQ",
             "percent": 100,
             "hz": 240
-          }     
+        },
+        {
+            "user": "IIoinc",
+            "link": "https://www.youtube.com/watch?v=CKqbbW0MnCk",
+            "percent": 100,
+            "hz": 120
+        }
     ]
 }

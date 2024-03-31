@@ -63,12 +63,18 @@
             "percent": 100,
             "hz": 144
         },
-          {
+        {
             "user": "yama",
             "link": "https://www.youtube.com/watch?v=S0pHzl7R0Eo",
             "percent": 100,
             "hz": 240
-          }    
+        },
+        {
+            "user": "0fko",
+            "link": "https://www.youtube.com/watch?v=aqSFtw5EQWM",
+            "percent": 100,
+            "hz": 360
+        }
       
     
     ]

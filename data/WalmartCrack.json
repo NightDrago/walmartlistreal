@@ -38,7 +38,13 @@
             "link": "https://youtu.be/K3pL3hYeYyA?si=rPHSs45R0GSEUOSZ",
             "percent": 100,
             "hz": 360
-        }
+        },
+        {
+          "user": "Editorial", 
+          "link": "https://youtu.be/QYrmAAFHiSQ",
+          "percent": 100,
+          "hz": 360
+      }
      
        
     ]

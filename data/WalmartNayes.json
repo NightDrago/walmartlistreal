@@ -9,6 +9,11 @@
     "refreshRates": "240",
     "song-title": "Back on Track",
     "records": [
-      
+           {
+            "user": "limitationn",
+            "link": "https://youtu.be/iyp4DdTmRgQ?si=d73fM2PGViMVAehX",
+            "percent": 100,
+            "hz": 360
+        },   
     ]
 }

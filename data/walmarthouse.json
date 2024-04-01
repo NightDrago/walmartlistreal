@@ -9,24 +9,6 @@
     "refreshRates": "240",
     "song-title": "CRIM3S - lost",
     "records": [
-         {
-            "user": "limitationn",
-            "link": "https://www.youtube.com/watch?v=7im3Q9G97Ac",
-            "percent": 100,
-            "hz": 240
-        },
-        {
-            "user": "yama",
-            "link": "https://www.youtube.com/watch?v=q3PHzH_wLNE",
-            "percent": 100,
-            "hz": 240
-        },
-        {
-            "user": "KazakiPL",
-            "link": "https://www.youtube.com/watch?v=Ks5ISZI7WyY",
-            "percent": 100,
-            "hz": 144
-        }
-        
+      
     ]
 }

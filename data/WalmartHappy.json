@@ -9,6 +9,13 @@
     "refreshRates": "Any",
     "song-title": "No Escape - Djjaner",
     "records": [
+
+        {
+            "user": "DizzyFlakes",
+            "link": "https://www.youtube.com/watch?v=euBwtjsSkT8",
+            "percent": 100,
+            "hz": 300
+        }
       
     ]
 }

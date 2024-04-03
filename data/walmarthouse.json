@@ -9,6 +9,13 @@
     "refreshRates": "240, no bypass",
     "song-title": "CRIM3S - lost",
     "records": [
+
+        {
+            "user": "ULTRALIGHTGD",
+            "link": "https://www.youtube.com/watch?v=hj_IfxIDRq0",
+            "percent": 100,
+            "hz": 240
+        }
       
     ]
 }

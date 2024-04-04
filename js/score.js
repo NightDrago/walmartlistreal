@@ -1,16 +1,15 @@
- /
- 
-Numbers of decimal digits to round to*/
+/**
+ * Numbers of decimal digits to round to
+ */
 const scale = 0;
 
-/
- 
-Calculate the score awarded when having a certain percentage on a list level
-@param {Number} rank Position on the list
-@param {Number} percent Percentage of completion
-@param {Number} minPercent Minimum percentage required
-@returns {Number}
-*/
+/**
+ * Calculate the score awarded when having a certain percentage on a list level
+ * @param {Number} rank Position on the list
+ * @param {Number} percent Percentage of completion
+ * @param {Number} minPercent Minimum percentage required
+ * @returns {Number}
+ */
 export function score(rank, percent, minPercent) {
     if (rank > 150) {
         return 0;
@@ -19,7 +18,7 @@ export function score(rank, percent, minPercent) {
         return 0;
     }
 
-      let pointvalues = [
+    let pointvalues = [
     { place: 1, points: 250 },
     { place: 2, points: 244.28 },
     { place: 3, points: 238.7 },
@@ -170,7 +169,7 @@ export function score(rank, percent, minPercent) {
     { place: 148, points: 8.34 },
     { place: 149, points: 8.15 },
     { place: 150, points: 7.96 }
-    ];
+];
 
     let pointValue = pointvalues.find(p => p.place === rank);
     if (!pointValue) {

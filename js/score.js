@@ -39,7 +39,7 @@ export function score(rank, percent, minPercent) {
  * @returns {Number} Points for the given rank
  */
 function calculatePoints(rank) {
-    let g = 150; // maximum rank
+    let g = 150; // Maximum rank
     let b = 2; // some constant value
     let j = 3; // some constant value
     let r = 2; // number of decimal places to round to
@@ -51,6 +51,8 @@ function calculatePoints(rank) {
     }
     return sum;
 }
+
+console.log(calculatePoints(150)); // Output: 157.96
 
 export function round(num) {
     if (!('' + num).includes('e')) {

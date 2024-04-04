@@ -47,12 +47,12 @@ function calculatePoints(rank) {
     let sum = 0;
     for (let n = 1; n <= g; n++) {
         let value = g * Math.exp((1 - n) * Math.log(1 / b) * (1 / j));
-        sum += Math.round(value * Math.pow(10, r)) / Math.pow(10, r);
+        sum += value;
     }
-    return sum;
+    return Math.round(sum * Math.pow(10, r)) / Math.pow(10, r);
 }
 
-console.log(calculatePoints(150)); // Output: 157.96
+console.log(calculatePoints(150)); // Output: Corrected value for maximum rank of 150
 
 export function round(num) {
     if (!('' + num).includes('e')) {

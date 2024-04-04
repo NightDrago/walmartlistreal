@@ -11,48 +11,30 @@ const scale = 0;
  * @returns {Number}
  */
 export function score(rank, percent, minPercent) {
-    if (rank > 150) {
-        return 0;
-    }
-    if (rank > 75 && percent < 100) {
-        return 0;
-    }
+    // Define the constants
+    const g = 150; // Maximum rank
+    const b = 2; // Some constant value
+    const j = 3; // Some constant value
 
-    let pointValue = calculatePoints(rank);
-    if (!pointValue) {
-        return 0;
-    }
-
-    let score = pointValue * ((percent - (minPercent - 1)) / (100 - (minPercent - 1)));
-    score = Math.max(0, score);
-
-    if (percent != 100) {
-        return round(score - score / 3);
-    }
-
-    return Math.max(round(score), 0);
-}
-
-/**
- * Calculate points based on rank using the provided mathematical expression
- * @param {Number} rank Position on the list
- * @returns {Number} Points for the given rank
- */
-function calculatePoints(rank) {
-    let g = 150; // Maximum rank
-    let b = 2; // some constant value
-    let j = 3; // some constant value
-    let r = 2; // number of decimal places to round to
-
+    // Calculate the score based on the provided formula
     let sum = 0;
     for (let n = 1; n <= g; n++) {
         let value = g * Math.exp((1 - n) * Math.log(1 / b) * (1 / j));
-        sum += value;
+        sum += round(value, scale);
     }
-    return Math.round(sum * Math.pow(10, r)) / Math.pow(10, r);
+
+    return sum;
 }
 
-console.log(calculatePoints(150)); // Output: Corrected value for maximum rank of 150
+/**
+ * Round a number to a specified number of decimal places
+ * @param {Number} num Number to round
+ * @param {Number} places Number of decimal places
+ * @returns {Number} Rounded number
+ */
+export function round(num, places) {
+    return +(Math.round(num + 'e+' + places) + 'e-' + places);
+}
 
 export function round(num) {
     if (!('' + num).includes('e')) {

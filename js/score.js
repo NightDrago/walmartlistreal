@@ -15,14 +15,16 @@ export function score(rank, percent, minPercent) {
     const g = 150; // Maximum rank
     const b = 2; // Some constant value
     const j = 3; // Some constant value
-    const minimumPoints = 50; // Minimum points for each level
+    const bottomLevelPoints = 49542112; // Points for the bottom level
 
     // Calculate the score based on the provided formula
     let value = g * Math.exp((1 - rank) * Math.log(1 / b) * (1 / j));
     let score = round(value, scale);
 
-    // Ensure that all levels have at least the minimum points
-    score = Math.max(minimumPoints, score);
+    // Ensure that the bottom level has the specified points
+    if (rank === g) {
+        score = bottomLevelPoints;
+    }
 
     return score;
 }

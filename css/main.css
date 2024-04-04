@@ -1,6 +1,6 @@
 :root {
     color-scheme: dark;
-    --color-background: white;
+    --color-background: #051424;
     --color-on-background: black;
     --color-background-hover: #eee;
     --color-on-background-hover: black;
@@ -14,7 +14,7 @@
 main.dark,
 header.dark {
     color-scheme: light;
-   --color-background: #051424;
+   --color-background: white;
     --color-on-background: white;
     --color-background-hover: #0066ff;
     --color-on-background-hover: white;

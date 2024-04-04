@@ -21,14 +21,13 @@ export function score(rank, percent, minPercent, g, b, j) {
         return 0;
     }
 
-    let score = g * Math.exp((1 - rank) * Math.log(1 / b) * (1 / j));
-    score = Math.max(0, score);
-
-    if (percent !== 100) {
-        return round(score, scale);
+    let totalScore = 0;
+    for (let n = 1; n <= g; n++) {
+        let score = g * Math.exp((1 - n) * Math.log(1 / b) * (1 / j));
+        totalScore += round(score, scale);
     }
-
-    return Math.max(round(score), 0);
+    
+    return totalScore;
 }
 
 /**

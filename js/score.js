@@ -21,7 +21,7 @@ export function score(rank, percent, minPercent) {
     // x = rank
     // g = points at #1 spot
     // b = 31.3889
-    // j = -1(*h) + 1
+    // j = -1 * h + 1
     // h = number of levels on the list (main and extended, NOT legacy)
     // r = decimal places to round to (I prefer 2)
 
@@ -41,7 +41,7 @@ export function score(rank, percent, minPercent) {
       return result;
     }
 
-    let pointValue = f(rank, 250, 31.3889, -1(*numberoflevels) + 1, numberoflevels, 2);
+    let pointValue = f(rank, 250, 31.3889, -1*numberoflevels + 1, numberoflevels, 2);
     if (!pointValue) {
         return 0;
     }

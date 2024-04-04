@@ -54,7 +54,7 @@ export function score(rank, percent, minPercent) {
         return round(score - score / 3);
     }
 
-    return Math.max(round(score), 0);
+    return score;
 }
 
 export function round(num) {

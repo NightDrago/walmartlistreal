@@ -9,9 +9,14 @@
         "name": "Huntzz",
         "link": "https://www.youtube.com/@huntzzgd"
     },
-      {
+    {
         "role": "admin",
         "name": "Vanious",
         "link": "https://www.youtube.com/channel/UC2vObr8cy9Lk_jrKJvw_HWA"
+    },
+    {
+        "role": "admin",
+        "name": "NotDragon",
+        "link": "https://www.youtube.com/channel/UCRyusbffJ436eqTTEhFLwSg"
     }
 ]

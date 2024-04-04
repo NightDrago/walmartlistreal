@@ -17,13 +17,8 @@ export function score(rank, percent, minPercent) {
     const j = 3; // Some constant value
 
     // Calculate the score based on the provided formula
-    let sum = 0;
-    for (let n = 1; n <= g; n++) {
-        let value = g * Math.exp((1 - n) * Math.log(1 / b) * (1 / j));
-        sum += round(value, scale);
-    }
-
-    return sum;
+    let value = g * Math.exp((1 - rank) * Math.log(1 / b) * (1 / j));
+    return round(value, scale);
 }
 
 /**
@@ -34,21 +29,4 @@ export function score(rank, percent, minPercent) {
  */
 export function round(num, places) {
     return +(Math.round(num + 'e+' + places) + 'e-' + places);
-}
-
-export function round(num) {
-    if (!('' + num).includes('e')) {
-        return +(Math.round(num + 'e+' + scale) + 'e-' + scale);
-    } else {
-        var arr = ('' + num).split('e');
-        var sig = '';
-        if (+arr[1] + scale > 0) {
-            sig = '+';
-        }
-        return +(
-            Math.round(+arr[0] + 'e' + sig + (+arr[1] + scale)) +
-            'e-' +
-            scale
-        );
-    }
 }

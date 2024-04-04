@@ -42,6 +42,7 @@ export function score(rank, percent, minPercent) {
     }
 
     let pointValue = f(rank, 250, 31.3889, -1*numberoflevels + 1, numberoflevels, 2);
+    console.log(pointValue);
     if (!pointValue) {
         return 0;
     }

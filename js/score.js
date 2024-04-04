@@ -1,5 +1,6 @@
  */
 const scale = 0;
+
 /**
  * Calculate the score awarded when having a certain percentage on a list level
  * @param {Number} rank Position on the list
@@ -15,7 +16,7 @@ export function score(rank, percent, minPercent) {
         return 0;
     }
 
-    let pointvalues = [
+     let pointvalues = [
     { place: 1, points: 250 },
     { place: 2, points: 244.28 },
     { place: 3, points: 238.7 },
@@ -167,7 +168,6 @@ export function score(rank, percent, minPercent) {
     { place: 149, points: 8.15 },
     { place: 150, points: 7.96 }
  ];
-
     let pointValue = pointvalues.find(p => p.place === rank);
     if (!pointValue) {
         return 0;

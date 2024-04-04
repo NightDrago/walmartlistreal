@@ -17,7 +17,7 @@ export function score(rank, percent, minPercent) {
     const j = 3; // Some constant value
 
     // Calculate the score based on the provided formula
-    let value = g * Math.exp((1 - rank) * Math.log(1 / b) * (1 / j));
+    let value = g * Math.exp((rank - 1) * Math.log(1 / b) * (1 / j));
     return round(value, scale);
 }
 

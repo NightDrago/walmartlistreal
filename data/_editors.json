@@ -15,8 +15,18 @@
         "link": "https://www.youtube.com/channel/UC2vObr8cy9Lk_jrKJvw_HWA"
     },
     {
-        "role": "admin",
+        "role": "mod",
         "name": "NotDragon",
         "link": "https://www.youtube.com/channel/UCRyusbffJ436eqTTEhFLwSg"
+    },
+     {
+        "role": "dev",
+        "name": "PokeyYapper1991",
+        "link": "https://www.youtube.com/channel/UC63w9ydkGymBLku3ra7BW2g"
+    }
+     {
+        "role": "dev",
+        "name": "Brink",
+        "link": ""
     }
 ]

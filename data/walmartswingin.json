@@ -1,0 +1,23 @@
+{
+    
+    "id": 103518905,
+    "name": "Walmart Swingin",
+    "author": "Inker",
+    "creators": ["Inker"],
+    "verifier": "Inker",
+    "verification": "https://youtu.be/EdXkV-HkC-U?si=VyAupV4BbMyNNZQS",
+    "percentToQualify": 100,
+    "refreshRates": "any",
+    "song-title": "Goukisan - Betrayal of Fear"
+    "records": [
+        
+        {
+            "user": "NotDragon",
+            "link": "https://www.youtube.com/watch?v=9wxCIk3MMVY",
+            "percent": 100,
+            "hz": 720
+        }
+
+
+    ]
+}

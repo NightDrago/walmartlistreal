@@ -9,6 +9,12 @@
     "refreshRates": "",
     "song-title": "Creo - Crazy",
     "records": [
+        {
+            "user": "zonkers",
+            "link": "https://www.youtube.com/watch?v=Ek3JXlNYbEI",
+            "percent": 100,
+            "hz": 240
+        }
         
     ]
 }

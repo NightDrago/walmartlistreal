@@ -69,6 +69,12 @@
             "link": "https://www.youtube.com/watch?v=CKqbbW0MnCk",
             "percent": 100,
             "hz": 120
+        },
+        {
+            "user": "JonVinicrafts",
+            "link": "https://youtu.be/uD5jMhFU9bY",
+            "percent": 100,
+            "hz": 60
         }
     ]
 }

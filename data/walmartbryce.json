@@ -10,6 +10,13 @@
     "refreshRates": "any",
     "song-title": "Back On Track - DJVI",
     "records": [
+        
+        {
+            "user": "Editorial",
+            "link": "https://www.youtube.com/watch?v=dNNe7dke9ys",
+            "percent": 100,
+            "hz": 360
+        }
 
     ]
 }

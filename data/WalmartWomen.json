@@ -9,6 +9,11 @@
     "refreshRates": "",
     "song-title": "Modjo - Lady",
     "records": [
-        
+        {
+            "user": "NotDragon",
+            "link": "https://www.youtube.com/watch?v=cwH9mAl75LM",
+            "percent": 100,
+            "hz": 720
+        }
     ]
 }

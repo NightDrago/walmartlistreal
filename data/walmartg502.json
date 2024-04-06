@@ -1,0 +1,21 @@
+{
+    
+    "id": 123456789,
+    "name": "Walmart G502",
+    "author": "zZealous",
+    "creators": ["zZealous"],
+    "verifier": "limitationn",
+    "verification": "https://youtu.be/UoVOneqJGqg?si=kxThx6ZqVm0nDGj7",
+    "percentToQualify": 100,
+    "refreshRates": "any",
+    "song-title": "F-777 - Sonic Blaster",
+    "records": [
+      {
+            "user": "NotDragon",
+            "link": "https://www.youtube.com/watch?v=BkmEZDwRO7k",
+            "percent": 100,
+            "hz": 720
+      }
+
+    ]
+}

@@ -10,6 +10,12 @@
     "refreshRates": "any",
     "song-title": "Goukisan - Betrayal of Fear",
     "records": [
+        {
+            "user": "CxGD",
+            "link": "https://youtu.be/Wc5yJZst6tk",
+            "percent": 100,
+            "hz": 360
+        }
 
     ]
 }

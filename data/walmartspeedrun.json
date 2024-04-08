@@ -9,6 +9,11 @@
     "refreshRates": "60",
     "song-title": "Guitar vs Piano by Goukisan",
     "records": [
-
+        {
+            "user": "NotDragon",
+            "link": "https://youtu.be/1tOKpfi3o3U?si=-_DpuQ0zcMvYmMGU",
+            "percent": 100,
+            "hz": 60
+        }
     ]
 }

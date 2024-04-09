@@ -10,6 +10,11 @@
     "refreshRates": "any",
     "song-title": "Club Step",
     "records": [
-        
+        {
+            "user": "NotDragon",
+            "link": "https://www.youtube.com/watch?v=IVp5yOZM57k",
+            "percent": 100,
+            "hz": 720
+        }
     ]
 }

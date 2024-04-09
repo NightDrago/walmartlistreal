@@ -58,11 +58,17 @@
             "percent": 100,
             "hz": 720
         },
-         {
-        "user": "KazakiPL",
-       "link": "https://www.youtube.com/watch?v=T9nSpB1a_64",
-       "percent": 100,
-       "hz": 144
+        {
+            "user": "KazakiPL",
+            "link": "https://www.youtube.com/watch?v=T9nSpB1a_64",
+            "percent": 100,
+            "hz": 144
+       },
+       {
+            "user": "doggo136",
+            "link": "https://youtu.be/wWlzgABDoSQ?si=QdpRC1Odtc43-Syk&t=71",
+            "percent": 100,
+            "hz": 999
        }
     ]
 }

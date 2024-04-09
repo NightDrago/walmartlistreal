@@ -11,7 +11,7 @@ jobs:
       - name: Github Releases To Discord
         uses: SethCohen/github-releases-to-discord@v1.13.1
         with:
-          webhook_url: ${{ secrets.WEBHOOK_URL }}
+          webhook_url: ${{ https://discord.com/api/webhooks/1227362907529150535/3uMHuLWGbgLQLPZbk4wqMqlfL0wuy7bp-NMnVkCLFXekudFgDbj1D5p4ePZ6x_qeImle }}
           color: "2105893"
           username: "Release Changelog"
           avatar_url: "https://cdn.discordapp.com/avatars/487431320314576937/bd64361e4ba6313d561d54e78c9e7171.png"

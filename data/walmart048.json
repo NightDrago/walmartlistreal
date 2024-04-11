@@ -10,5 +10,11 @@
     "refreshRates": "",
     "song-title": "Dimension",
     "records": [
+        {
+            "user": "NotDragon",
+            "link": "https://www.youtube.com/watch?v=Y2ju1c4w-ss",
+            "percent": 100,
+            "hz": 720
+        }
     ]
 }

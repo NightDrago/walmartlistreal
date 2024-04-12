@@ -16,11 +16,17 @@
             "percent": 100,
             "hz": 360
         },
-         {
+        {
             "user": "Editorial",
             "link": "https://youtu.be/HXh1NEtP_TQ",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "NotDragon",
+            "link": "https://www.youtube.com/watch?v=YjA5jE_jZh0",
+            "percent": 100,
+            "hz": 720
         }
     ]
 }

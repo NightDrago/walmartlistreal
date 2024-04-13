@@ -9,7 +9,11 @@
     "refreshRates": "240, no physics bypass",
     "song-title": "I Sell Crack",
     "records": [
-   
-        
+        {
+                        "user": "zonkers",
+            "link": "https://www.youtube.com/watch?v=54sgwVjmwL4",
+            "percent": 100,
+            "hz": 240
+        }        
     ]
 }

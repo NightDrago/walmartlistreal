@@ -19,6 +19,11 @@
         "name": "NotDragon",
         "link": "https://cdn.discordapp.com/attachments/1187543867021602878/1227039992266756106/bigman.png?ex=6626f50b&is=6614800b&hm=4589940878991a5e1bdde0f15ad505feb1828e604d81e50f992e96264d593e32&"
     },
+    {
+                "role": "helper",
+        "name": "zZealous",
+        "link": "https://www.youtube.com/@savezel"
+    },
      {
         "role": "dev",
         "name": "PokeyYapper1991",
@@ -28,10 +33,5 @@
         "role": "dev",
         "name": "1brink",
         "link": "https://cdn.discordapp.com/attachments/1187543867021602878/1227039992266756106/bigman.png?ex=6626f50b&is=6614800b&hm=4589940878991a5e1bdde0f15ad505feb1828e604d81e50f992e96264d593e32&"
-    },
-    {
-        "role": "helper",
-        "name": "zZealous",
-        "link": "https://www.youtube.com/@savezel"
     }
 ]

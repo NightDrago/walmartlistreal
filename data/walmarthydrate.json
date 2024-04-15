@@ -9,5 +9,11 @@
     "refreshRates": "Any",
     "song-title": "cYsmix - Eden",
     "records": [
+                {
+            "user": "worange",
+            "link": "https://www.youtube.com/watch?v=6n7Jho_6xtA",
+            "percent": 100,
+            "hz": 360
+        }
     ]
 }

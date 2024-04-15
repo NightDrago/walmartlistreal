@@ -6,7 +6,7 @@
     "verifier": "zonkers",
     "verification": "https://www.youtube.com/watch?v=1zoYBGHxsAs",
     "percentToQualify": 100,
-    "refreshRates": "360",
+    "refreshRates": "360, No CBF (show mods after completion)",
     "song-title": "Casual Game Music 09",
     "records": [
     ]

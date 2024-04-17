@@ -21,7 +21,12 @@
             "link": "https://www.youtube.com/watch?v=QIr6kEpEedw",
             "percent": 100,
             "hz": 240
-        }
-        
+        },
+                        {
+            "user": "limitationn",
+            "link": "https://youtu.be/mMIy8tvnjCI",
+            "percent": 100,
+            "hz": 788
+        }        
     ]
 }

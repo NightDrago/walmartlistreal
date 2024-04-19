@@ -14,6 +14,12 @@
             "link": "https://www.youtube.com/watch?v=OYVSspFFuK4&ab_channel=worange",
             "percent": 100,
             "hz": 360
+        },
+                        {
+            "user": "zonkers",
+            "link": "https://www.youtube.com/watch?v=z2vIveBoYYY&ab_channel=zonkers",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }

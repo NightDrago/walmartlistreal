@@ -20,6 +20,12 @@
             "link": "https://www.youtube.com/watch?v=LtJnyAugU_U",
             "percent": 100,
             "hz": 240
+        },
+                        {
+            "user": "wsgforce",
+            "link": "https://www.youtube.com/watch?v=B_uNZUxcSgA&ab_channel=ForceGD",
+            "percent": 100,
+            "hz": 360
         }
     ]
 

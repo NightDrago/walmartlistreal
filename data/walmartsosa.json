@@ -1,0 +1,26 @@
+{
+    
+    "id": 123456789,
+    "name": "Walmart Sosa",
+    "author": "worange",
+    "creators": ["worange"],
+    "verifier": "worange",
+    "verification": "https://www.youtube.com/watch?v=UCaammI6ha8",
+    "percentToQualify": 100,
+    "refreshRates": "any",
+    "song-title": "Love Sosa - Cheif Keef",
+    "song-link": "https://cdn.discordapp.com/attachments/1230690515662672002/1230690515834507335/5052.mp3?ex=6623195c&is=6621c7dc&hm=95761a867702a09e9df7b5fc24ae9cfbc73117df05a4a0d79863d95023bdbb52&",
+    "records": [
+        {
+            "user": "TacoJed",
+            "link": "https://www.youtube.com/watch?v=irVjQqdYMpI",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "NotDragon",
+            "link": "https://www.youtube.com/watch?v=KRZKTtvSliI",
+            "percent": 100,
+            "hz": 720
+        },
+    ]

@@ -21,6 +21,12 @@
             "link": "https://www.youtube.com/watch?v=sJBtiVifzH8",
             "percent": 100,
             "hz": 240
+        },
+                        {
+            "user": "Bathrobe",
+            "link": "https://www.youtube.com/watch?v=1-ZY3IMhYbg&ab_channel=BathrobeGD",
+            "percent": 100,
+            "hz": 360
         }
  ]
 }

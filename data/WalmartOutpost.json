@@ -9,6 +9,11 @@
     "refreshRates": "Any",
     "song-title": "Glitches",
     "records": [
-      
+              {
+            "user": "Pulu",
+            "link": "https://www.youtube.com/watch?v=kGguPBhr0iQ&ab_channel=Pulu",
+            "percent": 100,
+            "hz": 360
+        }
     ]
 }

@@ -9,5 +9,11 @@
     "refreshRates": "any",
     "song-title": "NK - Classical VIP",
     "records": [
+                {
+            "user": "worange",
+            "link": "https://www.youtube.com/watch?v=GfY2hfs7VCo&ab_channel=limitation",
+            "percent": 100,
+            "hz": 360
+        }
     ]
 }

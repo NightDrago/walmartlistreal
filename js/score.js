@@ -25,7 +25,7 @@ export function score(rank, percent, minPercent) {
     // h = number of levels on the list (main and extended, NOT legacy)
     // r = decimal places to round to (I prefer 2)
 
-    let numberoflevels = 75;
+    let numberoflevels = 76;
 
     function f(x, g, b, j, h, r) {
       if (x < 1 || x > h) {

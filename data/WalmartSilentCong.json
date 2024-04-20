@@ -10,5 +10,11 @@
     "refreshRates": "any, no bypass",
     "song-title": "Purgatori",
     "records": [
+                        {
+            "user": "zonkers", 
+            "link": "https://www.youtube.com/watch?v=BVD5f_whUZQ",
+            "percent": 100,
+            "hz": 240
+        }        
     ]
 }

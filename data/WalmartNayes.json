@@ -26,6 +26,12 @@
             "link": "https://www.youtube.com/watch?v=cZOARvP49Ro",
             "percent": 100,
             "hz": 360
+      },
+                {
+            "user": "zZealous",
+            "link": "https://www.youtube.com/watch?v=wk4d_0zg2tM&ab_channel=zel",
+            "percent": 100,
+            "hz": 360
       }
     ]
 }

@@ -34,6 +34,12 @@
             "link": "https://www.youtube.com/watch?v=kQwhpWNxjNs&ab_channel=Pulu",
             "percent": 100,
             "hz": 360
-        }
+        },
+        {
+            "user": "Editorial",
+            "link": "https://www.youtube.com/watch?v=cZOARvP49Ro",
+            "percent": 100,
+            "hz": 360
+      }
     ]
 }

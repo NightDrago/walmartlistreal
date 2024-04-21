@@ -33,6 +33,12 @@
             "link": "https://www.youtube.com/watch?v=Jc8trQLJnxA&ab_channel=zonkers",
             "percent": 100,
             "hz": 240
-        }
+        },
+        {
+            "user": "Editorial",
+            "link": "https://www.youtube.com/watch?v=cZOARvP49Ro",
+            "percent": 100,
+            "hz": 360
+      }
     ]
 }

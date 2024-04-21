@@ -10,5 +10,11 @@
     "refreshRates": "any",
     "song-title": "Dark Matter - GDHexhammer",
     "records": [
+        {
+            "user": "limitationn",
+            "link": "https://youtu.be/4bFciSVSyTQ?si=2egb3QkMytBJm-N5",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }

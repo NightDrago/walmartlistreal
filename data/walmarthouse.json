@@ -33,6 +33,12 @@
             "link": "https://www.youtube.com/watch?v=mAq0YSG0gCE&ab_channel=zel",
             "percent": 100,
             "hz": 360
-        }      
+        },
+        {
+            "user": "Editorial",
+            "link": "https://www.youtube.com/watch?v=dtIa5LhcQ7U",
+            "percent": 100,
+            "hz": 360
+      }      
     ]
 }

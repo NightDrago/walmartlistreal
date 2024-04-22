@@ -9,7 +9,7 @@
     "refreshRates": "",
     "song-title": "Xtrullor - Disordered Worlds",
     "records": [
-            {
+        {
             "user": "SlendStone",
             "link": "https://www.youtube.com/watch?v=vstqR7LKY5M",
             "percent": 100,
@@ -26,6 +26,12 @@
             "link": "https://youtu.be/4bFciSVSyTQ?si=2egb3QkMytBJm-N5",
             "percent": 100,
             "hz": 240
-        }        
+        },
+        {
+            "user": "NotDragon",
+            "link": "https://www.youtube.com/watch?v=f1EjJBaUajg",
+            "percent": 100,
+            "hz": 330
+        }
     ]
 }

@@ -9,5 +9,11 @@
     "refreshRates": "Any",
     "song-title": "EpsiDev - Parfait",
     "records": [
+        {
+            "user": "Editorial",
+            "link": "https://youtu.be/GTJCe7_9nJQ",
+            "percent": 100,
+            "hz": 360
+      }      
     ]
 }

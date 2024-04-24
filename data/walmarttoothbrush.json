@@ -38,6 +38,12 @@
             "link": "https://www.youtube.com/watch?v=rym9ih-yYsg",
             "percent": 100,
             "hz": 360
+        },
+                        {
+            "user": "Editorial",
+            "link": "https://www.youtube.com/watch?v=E11ZXVr2zcQ",
+            "percent": 100,
+            "hz": 360
         }
     ]  
 }

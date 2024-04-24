@@ -38,12 +38,6 @@
             "link": "https://www.youtube.com/watch?v=9aCQ13GVVmE&ab_channel=ForceGD",
             "percent": 100,
             "hz": 360
-        },
-        {
-            "user": "Editorial",
-            "link": "https://www.youtube.com/watch?v=dtIa5LhcQ7U",
-            "percent": 100,
-            "hz": 360
-      }
+        }
     ]
 }

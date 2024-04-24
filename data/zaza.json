@@ -15,7 +15,12 @@
             "link": "https://clips.twitch.tv/DoubtfulFurtiveChamoisTwitchRPG-ldgKQaTTynA99DYL",
             "percent": 100,
             "hz": 240
+        },
+                {
+            "user": "Editorial",
+            "link": "https://www.youtube.com/watch?v=GN2nLa580lU",
+            "percent": 100,
+            "hz": 360
         }
-
     ]
 }

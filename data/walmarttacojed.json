@@ -9,5 +9,11 @@
     "refreshRates": "Any",
     "song-title": "Kanye West - Graduation",
     "records": [
+       {
+            "user": "stucc",
+            "link": "https://youtu.be/cpDIEgNvrbo",
+            "percent": 100,
+            "hz": 360
+       }
     ]
 }

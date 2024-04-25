@@ -87,6 +87,12 @@
             "link": "https://www.youtube.com/live/zo-NNxqB9zg?si=2X1rpbv9HQgfXjcj",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "worange",
+            "link": "https://www.youtube.com/watch?v=M1jGggUrZnQ",
+            "percent": 100,
+            "hz": 360
         }
     ]
 }

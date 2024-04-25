@@ -75,6 +75,12 @@
             "link": "https://www.youtube.com/watch?v=1z5FKuTDBvA",
             "percent": 100,
             "hz": 720
+       },
+       {
+            "user": "zonkers",
+            "link": "https://youtu.be/o-hSzWdhpo8",
+            "percent": 100,
+            "hz": 240
        }
     ]
 }

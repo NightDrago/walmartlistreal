@@ -45,11 +45,17 @@
             "percent": 100,
             "hz": 144
         },
-                {
+        {
             "user": "zonkers", 
             "link": "https://www.youtube.com/watch?v=_Mfxekl_qd8&ab_channel=zonkers",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "worange", 
+            "link": "https://www.youtube.com/watch?v=M1jGggUrZnQ",
+            "percent": 100,
+            "hz": 360
         }
 
         

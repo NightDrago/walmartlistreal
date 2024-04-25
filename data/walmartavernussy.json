@@ -9,5 +9,11 @@
     "refreshRates": "Any",
     "song-title": "Hot",
     "records": [
+        {
+            "user": "zonkers",
+            "link": "https://youtu.be/tFFb7_4GlaI",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }

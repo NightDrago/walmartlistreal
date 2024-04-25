@@ -8,7 +8,12 @@
     "percentToQualify": 100,
     "refreshRates": "any",
     "records": [
-
+        {
+            "user": "stucc",
+            "link": "https://youtu.be/1aRNhcyQIhg",
+            "percent": 100,
+            "hz": 360
+        }
           
 
         

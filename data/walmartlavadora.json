@@ -1,0 +1,20 @@
+{
+    
+    "id": 104434846,
+    "name": "Walmart Lavadora",
+    "author": "WWalberto",
+    "creators": ["WWalberto"],
+    "verifier": "WWalberto",
+    "verification": "https://youtu.be/l1j2ccdOJ8w",
+    "percentToQualify": 100,
+    "refreshRates": "any",
+    "song-title": "Time Machine",
+    "records": [
+      {
+            "user": "NotDragon",
+            "link": "https://www.youtube.com/watch?v=EG_AaWEDdrc",
+            "percent": 100,
+            "hz": 360
+      }
+    ]
+}

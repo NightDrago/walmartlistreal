@@ -32,6 +32,12 @@
             "link": "https://www.youtube.com/watch?v=f1EjJBaUajg",
             "percent": 100,
             "hz": 330
+        },
+        {
+            "user": "stucc",
+            "link": "https://youtu.be/0O65SPNw6ls",
+            "percent": 100,
+            "hz": 360
         }
     ]
 }

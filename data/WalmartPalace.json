@@ -39,11 +39,17 @@
             "percent": 100,
             "hz": 144
         },
-                {
+        {
             "user": "CanadianGarbage", 
             "link": "https://www.youtube.com/watch?v=EQiwyyacS4w&ab_channel=JanC3381",
             "percent": 100,
             "hz": 240
-        }        
+        },
+        {
+            "user": "stucc", 
+            "link": "https://youtu.be/bK2uBpoVk38",
+            "percent": 100,
+            "hz": 360
+        }
     ]
 }

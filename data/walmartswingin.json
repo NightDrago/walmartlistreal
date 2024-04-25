@@ -29,11 +29,17 @@
             "percent": 100,
             "hz": 240
         },
-                        {
+        {
             "user": "limitationn",
             "link": "https://youtu.be/mMIy8tvnjCI",
             "percent": 100,
             "hz": 788
+        },
+        {
+            "user": "worange",
+            "link": "https://www.youtube.com/watch?v=M1jGggUrZnQ",
+            "percent": 100,
+            "hz": 360
         }
     ]
 }

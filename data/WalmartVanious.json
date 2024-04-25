@@ -14,7 +14,12 @@
             "link": "https://www.youtube.com/watch?v=Wkxy3-YRyQY&ab_channel=Editorialt&t=2m39s",
             "percent": 100,
             "hz": 360
-            
+        },
+        {
+            "user": "stucc",
+            "link": "https://youtu.be/CYfeVrdLcKE",
+            "percent": 100,
+            "hz": 360
         }
     ]
 }

@@ -9,7 +9,12 @@
     "refreshRates": "any",
     "song-title": "Casual Game Music 09",
     "records": [  
-
+        {
+            "user": "stucc",
+            "link": "https://youtu.be/vXfZ_fBwGGM",
+            "percent": 100,
+            "hz": 360
+        }
       
 
 

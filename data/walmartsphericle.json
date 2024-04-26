@@ -15,11 +15,17 @@
             "percent": 100,
             "hz": 240
         },
-              {
+        {
             "user": "zZealous",
             "link": "https://youtu.be/rtPzebZihNM",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "NotDragon",
+            "link": "https://www.youtube.com/watch?v=BBZ4hWpcSEw",
+            "percent": 100,
+            "hz": 360
         }
     ]
 }

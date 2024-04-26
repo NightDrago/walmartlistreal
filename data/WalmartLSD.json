@@ -10,10 +10,16 @@
     "song-title": "I Sell Crack",
     "records": [
         {
-                        "user": "zonkers",
+            "user": "zonkers",
             "link": "https://www.youtube.com/watch?v=54sgwVjmwL4",
             "percent": 100,
             "hz": 240
-        }        
+        },
+          {
+            "user": "Editorial",
+            "link": "https://www.youtube.com/watch?v=DLLcj5tJUYM",
+            "percent": 100,
+            "hz": 360,
+        }
     ]
 }

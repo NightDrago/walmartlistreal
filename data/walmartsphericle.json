@@ -9,5 +9,17 @@
     "refreshRates": "240",
     "song-title": "NH22 - Isotope",
     "records": [
+        {
+            "user": "TacoJed",
+            "link": "https://www.youtube.com/watch?v=akIviRPatpE",
+            "percent": 100,
+            "hz": 240
+        },
+              {
+            "user": "zZealous",
+            "link": "https://youtu.be/rtPzebZihNM",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }

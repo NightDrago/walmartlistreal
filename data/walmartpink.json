@@ -26,6 +26,12 @@
             "link": "https://www.youtube.com/watch?v=DLLcj5tJUYM",
             "percent": 100,
             "hz": 360
-        }
+        },
+                                        {
+            "user": "Chearful", 
+            "link": "https://youtu.be/02N3JJZrFSg",
+            "percent": 100,
+            "hz": 240
+        }      
     ]
 }

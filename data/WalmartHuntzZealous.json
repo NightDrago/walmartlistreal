@@ -10,10 +10,17 @@
     "song-title": "Creo - Crazy",
     "records": [
        {
-                       "user": "zonkers",
+            "user": "zonkers",
             "link": "https://www.youtube.com/watch?v=c7yBCLKzCdY",
             "percent": 100,
             "hz": 240
-       }        
-    ]
+       },
+       {
+    
+            "user": "NotDragon",
+            "link": "https://www.youtube.com/watch?v=845aNJvYQbE",
+            "percent": 100,
+            "hz": 330
+       }
+           ]
 }

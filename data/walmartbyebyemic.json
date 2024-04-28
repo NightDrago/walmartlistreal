@@ -1,0 +1,20 @@
+{
+    
+    "id": 104469822,
+    "name": "Walmart Bye Bye Mic",
+    "author": "WWalberto",
+    "creators": ["WWalberto"],
+    "verifier": "WWAlberto",
+    "verification": "https://youtu.be/u-a1-usbmPU",
+    "percentToQualify": 100,
+    "refreshRates": "any",
+    "song-title": "Clubstep",
+    "records": [
+      {
+            "user": "NotDragon",
+            "link": "https://www.youtube.com/watch?v=8j_RrJWh6EI",
+            "percent": 100,
+            "hz": 330
+      }
+        ]
+}

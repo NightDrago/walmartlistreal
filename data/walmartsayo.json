@@ -21,7 +21,14 @@
             "link": "https://www.youtube.com/watch?v=EI99E1FSGfk",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "Komet01",
+            "link": "https://www.youtube.com/watch?v=IXPAFSg1884",
+            "percent": 100,
+            "hz": 240
         }
+        
         
     ]
 }

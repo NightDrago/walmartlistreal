@@ -38,7 +38,7 @@ export function score(rank, percent, minPercent) {
 
       result = Math.round(result * Math.pow(10, r)) / Math.pow(10, r);
 
-      Math.trunc(result);
+      return result;
     }
 
     let pointValue = f(rank, 250, 31.3889, -1*numberoflevels + 1, numberoflevels, 2);
@@ -54,7 +54,7 @@ export function score(rank, percent, minPercent) {
         return round(score - score / 3);
     }
 
-    return Math.trunc(score);
+    return score;
 }
 
 export function round(num) {

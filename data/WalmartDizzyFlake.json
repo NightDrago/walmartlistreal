@@ -33,11 +33,18 @@
             "percent": 100,
             "hz": 360
         },
-                {
+        {
             "user": "zonkers",
             "link": "https://www.youtube.com/watch?v=34bFSp-HywE",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "nidi",
+            "link": "https://youtu.be/lkaGaNcMyFk?si=_2t0P2JRVhdV_YCv",
+            "percent": 100,
+            "hz": 60
+            "mobile": true
         }
     ]
 }

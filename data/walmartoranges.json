@@ -15,11 +15,17 @@
             "percent": 100,
             "hz": 360
       },
-                {
+      {
             "user": "Stucc",
             "link": "https://youtu.be/g-7r9o7cRwU",
             "percent": 100,
             "hz": 100
-      }      
+      },
+      {
+            "user": "Komet01",
+            "link": "https://www.youtube.com/watch?v=qK-fO2Y9VA4",
+            "percent": 100,
+            "hz": 240
+      }
     ]
 }

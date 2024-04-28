@@ -36,7 +36,7 @@ export function score(rank, percent, minPercent) {
       let exponent = (1 - x) * Math.log(1 / b) * (1 / j);
       let result = g * Math.exp(exponent);
 
-      result = Math.round(result * Math.pow(10, r)) / Math.pow(10, r);
+      result = Math.trunc(result * Math.pow(10, r)) / Math.pow(10, r);
 
       return result;
     }
@@ -59,7 +59,7 @@ export function score(rank, percent, minPercent) {
 
 export function round(num) {
     if (!('' + num).includes('e')) {
-        return +(Math.round(num + 'e+' + scale) + 'e-' + scale);
+        return +(Math.trunc(num + 'e+' + scale) + 'e-' + scale);
     } else {
         var arr = ('' + num).split('e');
         var sig = '';
@@ -67,7 +67,7 @@ export function round(num) {
             sig = '+';
         }
         return +(
-            Math.round(+arr[0] + 'e' + sig + (+arr[1] + scale)) +
+            Math.trunc(+arr[0] + 'e' + sig + (+arr[1] + scale)) +
             'e-' +
             scale
         );

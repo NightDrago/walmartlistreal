@@ -9,13 +9,13 @@
     "refreshRates": "any",
     "song-title": "NK - Classical VIP",
     "records": [
-                {
+        {
             "user": "worange",
             "link": "https://www.youtube.com/watch?v=OYVSspFFuK4&ab_channel=worange",
             "percent": 100,
             "hz": 360
         },
-                        {
+        {
             "user": "zonkers",
             "link": "https://www.youtube.com/watch?v=z2vIveBoYYY&ab_channel=zonkers",
             "percent": 100,
@@ -27,17 +27,23 @@
             "percent": 100,
             "hz": 240
         },
-                {
+        {
             "user": "zZealous",
             "link": "https://www.youtube.com/watch?v=2Kt9Oil4S84&ab_channel=zel",
             "percent": 100,
             "hz": 360
         },
-                                        {
+        {
             "user": "Chearful", 
             "link": "https://youtu.be/02N3JJZrFSg",
             "percent": 100,
             "hz": 240
-        }      
+        },
+        {
+            "user": "Comet01", 
+            "link": "https://www.youtube.com/watch?v=4rXCa1wroHw",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }

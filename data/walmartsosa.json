@@ -41,11 +41,17 @@
             "percent": 100,
             "hz": 240
         },
-                {
+        {
             "user": "limitationn",
             "link": "https://youtu.be/2hWJxseurYs?si=FawcJGCu943DrAd1",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "FATN1GCA23",
+            "link": "https://www.youtube.com/watch?v=2G1XovSiadQ",
+            "percent": 100,
+            "hz": 360
         }
     ]
 }

@@ -87,6 +87,12 @@
             "link": "https://youtu.be/5uKJqStFX5I",
             "percent": 100,
             "hz": 180
+        },
+        {
+            "user": "Komet01",
+            "link": "https://www.youtube.com/watch?v=N88qwMm2Pg0&ab_channel=Komet01",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }

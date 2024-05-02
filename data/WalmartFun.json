@@ -81,6 +81,12 @@
             "link": "https://www.youtube.com/watch?v=M1jGggUrZnQ",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "Lezephyx",
+            "link": "https://youtu.be/5uKJqStFX5I",
+            "percent": 100,
+            "hz": 180
         }
     ]
 }

@@ -10,6 +10,11 @@
     "song-title": "Waterflame - -Killstealer-",
     "type": "Wave",
     "records": [
-        
+        {
+            "user": "Komet01",
+            "link": "https://www.youtube.com/watch?v=03aiGCs9Zf0&t=3s",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }

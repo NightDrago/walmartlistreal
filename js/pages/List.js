@@ -124,6 +124,9 @@ export default {
                         Achieved the record without using hacks (however, Physics bypass is allowed, up to 360fps/tps).
                     </p>
                     <p>
+                    Click Between Frames (cbf) is allowed, Physics Bypass is not
+                    </p>
+                    <p>
                         Achieved the record on the level that is listed on the site - please check the level ID before you submit a record.
                     </p>
                     <p>
@@ -133,7 +136,7 @@ export default {
                         The recording must have a previous attempt and entire death animation shown before the completion, unless the completion is on the first attempt. Everyplay records are exempt from this.
                     </p>
                     <p>
-                        You must show yourself exiting a level after you beat it.
+                        Keep your raw footage for completions as you might be asked to show it (Especially for big completions), Failure to provide raw footage when asked will result in the denial of your record.
                     </p>
                     <p>
                         The recording must also show the full endscreen for at least 1 frame, or the record will be invalidated.

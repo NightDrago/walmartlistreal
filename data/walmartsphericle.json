@@ -50,6 +50,12 @@
             "link": "https://www.youtube.com/watch?v=z8i8XGl1ZGo",
             "percent": 100,
             "hz": 480
+        },
+        {
+            "user": "Komet01",
+            "link": "https://www.youtube.com/watch?v=N88qwMm2Pg0&ab_channel=Komet01",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }

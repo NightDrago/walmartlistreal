@@ -32,6 +32,12 @@
             "link": "https://www.youtube.com/watch?v=wk4d_0zg2tM&ab_channel=zel",
             "percent": 100,
             "hz": 360
-      }
+        },
+        {
+            "user": "Komet01",
+            "link": "https://www.youtube.com/watch?v=N88qwMm2Pg0&ab_channel=Komet01",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }

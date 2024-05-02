@@ -57,6 +57,12 @@
             "link": "https://www.youtube.com/watch?v=2G1XovSiadQ",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "Birrk",
+            "link": "https://youtu.be/8_vWG9Jtk-I",
+            "percent": 100,
+            "hz": 60
         }
     ]
 }

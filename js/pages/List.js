@@ -121,7 +121,7 @@ export default {
                     </template>
                     <h3>Submission Requirements</h3>
                     <p>
-                        Achieved the record without using hacks (however, Physics bypass is allowed, up to 360fps/tps).
+                        Achieved the record without using hacks.
                     </p>
                     <p>
                     Click Between Frames (cbf) is allowed, Physics Bypass is not

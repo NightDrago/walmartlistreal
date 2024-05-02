@@ -1,20 +1,15 @@
 {
-    "id": 102443419,
+    "id": 104641896,
     "name": "Walmart Dreams",
     "author": "Tacojed",
     "creators": ["Tacojed"],
-    "verifier": "Vanious",
-    "verification": "https://www.youtube.com/watch?v=ZUwMO9qYC0g&ab_channel=Vanious",
+    "verifier": "CxGD",
+    "verification": "https://www.youtube.com/watch?v=PwRGyMtvW6c",
     "percentToQualify": 100,
     "refreshRates": "Any (No bypass)",
     "song-title": "sweet dreams - OvOFBeats",
     "records": [
-        {
-            "user": "CxGD",
-            "link": "https://www.youtube.com/watch?v=PwRGyMtvW6c",
-            "percent": 100,
-            "hz": 360
-        },
+     
         {  
             "user": "limitationn",
             "link": "https://www.youtube.com/watch?v=q8KH4YAHPR0",
@@ -32,6 +27,12 @@
             "link": "https://www.youtube.com/watch?v=H3a4_xG34TQ",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "Komet01",
+            "link": "https://www.youtube.com/watch?v=03aiGCs9Zf0&t=3s",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }

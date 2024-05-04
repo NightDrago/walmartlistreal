@@ -10,17 +10,23 @@
     "refreshRates": "any, no bypass",
     "song-title": "Purgatori",
     "records": [
-                        {
+        {
             "user": "zonkers", 
             "link": "https://www.youtube.com/watch?v=BVD5f_whUZQ",
             "percent": 100,
             "hz": 240
         },
-                                {
+        {
             "user": "Chearful", 
             "link": "https://youtu.be/02N3JJZrFSg",
             "percent": 100,
             "hz": 240
-        }      
+        },
+        {
+            "user": "lil cane", 
+            "link": "https://youtu.be/GGF1p6qnK0Q?si=3XdtS8d62QkpsSN5",
+            "percent": 100,
+            "hz": 360
+        }
     ]
 }

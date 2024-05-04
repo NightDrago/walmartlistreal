@@ -9,11 +9,17 @@
     "refreshRates": "",
     "song-title": "F-777 - Sonic Blaster",
     "records": [    
-            {
+        {
             "user": "Vanious",
             "link": "https://youtu.be/VvmdWRmEbv4",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "NotDragon",
+            "link": "https://www.youtube.com/watch?v=jwmdVjFyCqw",
+            "percent": 100,
+            "hz": 330
         }
     ]
 }

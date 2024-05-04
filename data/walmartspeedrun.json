@@ -63,6 +63,12 @@
             "link": "https://youtu.be/OlJbajm5oQU",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "Derd",
+            "link": "https://www.youtube.com/watch?v=C2nMQBjli1g",
+            "percent": 100,
+            "hz": 360
         }
     ]
 }

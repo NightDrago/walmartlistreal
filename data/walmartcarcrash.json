@@ -9,5 +9,11 @@
     "refreshRates": "Any",
     "song-title": "F777 - Dark Dragon Fire",
     "records": [
+        {
+            "user": "NotDragon",
+            "link": "https://www.youtube.com/watch?v=aRm7IwBKH1c",
+            "percent": 100,
+            "hz": 330
+        }
     ]
 }

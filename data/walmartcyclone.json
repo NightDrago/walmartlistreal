@@ -9,5 +9,11 @@
     "refreshRates": "Any",
     "song-title": "Hydra",
     "records": [
+        {
+            "user": "NotDragon",
+            "link": "https://www.youtube.com/watch?v=aRm7IwBKH1c",
+            "percent": 100,
+            "hz": 330
+        }
     ]
 }

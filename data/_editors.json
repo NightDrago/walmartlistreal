@@ -2,13 +2,18 @@
     {
         "role": "owner",
         "name": "Editorial",
-        "link": "https://cdn.discordapp.com/attachments/1187543867021602878/1227039992266756106/bigman.png?ex=6626f50b&is=6614800b&hm=4589940878991a5e1bdde0f15ad505feb1828e604d81e50f992e96264d593e32&"
+        "link": "https://www.youtube.com/@Editorialt"
     },
     {
         "role": "admin",
         "name": "NotDragon",
-        "link": "https://cdn.discordapp.com/attachments/1187543867021602878/1227039992266756106/bigman.png?ex=6626f50b&is=6614800b&hm=4589940878991a5e1bdde0f15ad505feb1828e604d81e50f992e96264d593e32&"
+        "link": "https://www.youtube.com/@IINotDragonII"
     },
+    {
+        "role": "helper",
+        "name": "Stucc",
+        "link": "https://www.youtube.com/@zstucc6709"
+    }
      {
         "role": "dev",
         "name": "PokeyYapper1991",

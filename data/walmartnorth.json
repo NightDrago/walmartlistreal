@@ -1,14 +1,14 @@
 {
     
-    "id": 123456789,
-    "name": "Walmart North ",
+    "id": 104857292,
+    "name": "Walmart North",
     "author": "Stucc",
     "creators": ["Stucc, North"],
     "verifier": "Stucc",
     "verification": "https://youtu.be/GCsR1reAl0A",
     "percentToQualify": 100,
     "refreshRates": "Any",
-    "song-title": "Stereo Madness"
+    "song-title": "Stereo Madness",
     "records": [
     ]
   }

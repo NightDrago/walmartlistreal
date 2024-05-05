@@ -9,6 +9,11 @@
     "refreshRates": "any",
     "song-title": "Dirt Devil",
     "records": [  
-
-              ]
+        {
+            "user": "Komet01",
+            "link": "https://www.youtube.com/watch?v=KQvLavuBxxc",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
 }

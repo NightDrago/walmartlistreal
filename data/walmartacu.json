@@ -9,7 +9,12 @@
     "refreshRates": "Any",
     "song-title": "Epilouge",
     "records": [
-
+        {
+            "user": "Komet01",
+            "link": "https://www.youtube.com/watch?v=KQvLavuBxxc",
+            "percent": 100,
+            "hz": 240
+        }
 
     ]
 }

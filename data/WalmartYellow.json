@@ -10,18 +10,7 @@
     "song-title": "Akaruhime - Lofi Stupidity",
     "records": [    
         
-      {
-            "user": "TacoJed",
-            "link": "https://www.youtube.com/watch?v=IGpjA-cwXog",
-            "percent": 100,
-            "hz": 240
-        },
-        {
-            "user": "limitationn",
-            "link": "https://youtu.be/ueTJJK59So4?si=M0SbPzZOTDfQuGrd",
-            "percent": 100,
-            "hz": 240
-        },
+   
         {
             "user": "CxGD",
             "link": "https://www.youtube.com/watch?v=3Lo4qnl317E",
@@ -40,12 +29,7 @@
             "percent": 100,
             "hz": 240
         },
-        {
-            "user": "zZealous",
-            "link": "https://www.youtube.com/watch?v=7pbcxQZIcIk",
-            "percent": 100,
-            "hz": 720
-        },
+        
         {
             "user": "zonkers",
             "link": "https://www.youtube.com/watch?v=ihZ5B6wl39c",

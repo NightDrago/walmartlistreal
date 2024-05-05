@@ -9,6 +9,11 @@
     "refreshRates": "Any",
     "song-title": "Purgatori",
     "records": [
-       
+       {
+            "user": "NotDragon",
+            "link": "https://www.youtube.com/watch?v=7wN4gwYYY-M",
+            "percent": 100,
+            "hz": 330
+       }
     ]
 }

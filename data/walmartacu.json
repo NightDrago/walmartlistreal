@@ -10,6 +10,12 @@
     "song-title": "Epilouge",
     "records": [
         {
+            "user": "NotDragon",
+            "link": "https://www.youtube.com/watch?v=cVgA9uETkKg",
+            "percent": 100,
+            "hz": 330
+        },
+        {
             "user": "Komet01",
             "link": "https://www.youtube.com/watch?v=KQvLavuBxxc",
             "percent": 100,

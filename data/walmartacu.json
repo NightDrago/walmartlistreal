@@ -20,7 +20,12 @@
             "link": "https://www.youtube.com/watch?v=KQvLavuBxxc",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "Hexstatical",
+            "link": "https://youtu.be/2gNRM4SMf3A",
+            "percent": 100,
+            "hz": 240
         }
-
     ]
 }

@@ -52,6 +52,12 @@
             "link": "https://www.youtube.com/watch?v=N88qwMm2Pg0&ab_channel=Komet01",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "seconb",
+            "link": "https://youtu.be/P3droNFnXE8",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }

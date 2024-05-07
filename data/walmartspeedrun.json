@@ -75,6 +75,12 @@
             "link": "https://www.youtube.com/watch?v=N88qwMm2Pg0",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "frivo",
+            "link": "https://insights.gg/v/7l5sZhqPkvARzCIGiv4X5n",
+            "percent": 100,
+            "hz": 720
         }
     ]
 }

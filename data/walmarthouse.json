@@ -1,8 +1,8 @@
 {
     "id": 103065498,
     "name": "Walmart House",
-    "author": "zZealous",
-    "creators": ["zZealous"],
+    "author": "NotDragon",
+    "creators": ["NotDragon"],
     "verifier": "NotDragon",
     "verification": "https://www.youtube.com/watch?v=eUEculqJNDg",
     "percentToQualify": 100,
@@ -27,12 +27,6 @@
             "link": "https://www.youtube.com/watch?v=JUJpJXdRbJ4&ab_channel=zerodoesthings",
             "percent": 100,
             "hz": 240
-        },
-                        {
-            "user": "zZealous",
-            "link": "https://www.youtube.com/watch?v=mAq0YSG0gCE&ab_channel=zel",
-            "percent": 100,
-            "hz": 360
         },
         {
             "user": "stucc",

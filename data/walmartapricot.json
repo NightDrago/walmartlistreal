@@ -27,6 +27,12 @@
             "link": "https://youtu.be/C8imPeilqQU?si=CAISYyzqWHABC8dL",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "zonkers",
+            "link": "https://www.youtube.com/watch?v=BhER3FQknBQ",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }

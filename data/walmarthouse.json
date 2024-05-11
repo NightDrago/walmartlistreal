@@ -33,6 +33,12 @@
             "link": "https://youtu.be/8EO1LZdjglY",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "worange",
+            "link": "https://www.youtube.com/watch?v=zsVtPwik4jQ",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }

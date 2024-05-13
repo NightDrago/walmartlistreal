@@ -1,0 +1,20 @@
+{
+    
+    "id": 105204984,
+    "name": "Walmart City",
+    "author": "Imirami",
+    "creators": ["Imirami"],
+    "verifier": "Imirami",
+    "verification": "https://youtu.be/mcU0X9VmM4Y",
+    "percentToQualify": 100,
+    "refreshRates": "any",
+    "song-title": "Dry Out",
+    "records": [
+        {
+            "user": "NotDragon",
+            "link": "https://www.youtube.com/watch?v=bbAP_fKETrA",
+            "percent": 100,
+            "hz": 330
+        }
+    ]
+}

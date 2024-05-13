@@ -9,6 +9,11 @@
     "refreshRates": "Any",
     "song-title": "outlaw by creo",
     "records": [
-     
+         {
+            "user": "NotDragon",
+            "link": "https://www.youtube.com/watch?v=q7d7OkuoUns",
+            "percent": 100,
+            "hz": 330
+         }
     ]
 }

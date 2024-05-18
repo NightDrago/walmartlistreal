@@ -23,13 +23,13 @@
             "percent": 100,
             "hz": 720
         },
-                {
+        {
             "user": "zonkers",
             "link": "https://www.youtube.com/watch?v=BL8dx3Sgi68",
             "percent": 100,
             "hz": 240
         },
-                        {
+        {
             "user": "Pulu",
             "link": "https://www.youtube.com/watch?v=kQwhpWNxjNs&ab_channel=Pulu",
             "percent": 100,
@@ -40,6 +40,12 @@
             "link": "https://www.youtube.com/watch?v=cZOARvP49Ro",
             "percent": 100,
             "hz": 360
-      }
+        },
+        {
+            "user": "seconb",
+            "link": "https://youtu.be/hQmCTuprFKk",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }

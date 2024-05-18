@@ -9,11 +9,17 @@
     "refreshRates": "any",
     "song-title": "Dion Timmer - Shiawase",
     "records": [
-            {
+        {
             "user": "Komet01",
             "link": "https://www.youtube.com/watch?v=KQvLavuBxxc",
             "percent": 100,
             "hz": 240
-            }
+        },
+        {
+            "user": "seconb",
+            "link": "https://www.youtube.com/watch?v=hQmCTuprFKk",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }

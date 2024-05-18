@@ -27,7 +27,7 @@
           "percent": 100,
           "hz": 240
       },
-        {
+      {
         "user": "NotDragon",
         "link": "https://www.youtube.com/watch?v=KMgewH2uBTE",
         "percent": 100,
@@ -46,12 +46,17 @@
             "hz": 144
       },
       {
-            
             "user": "Komet01",
             "link": "https://www.youtube.com/watch?v=KQvLavuBxxc",
             "percent": 100,
             "hz": 240
-      }
+      },
+        {
+            "user": "seconb",
+            "link": "https://youtu.be/hQmCTuprFKk",
+            "percent": 100,
+            "hz": 240
+        }
        
     ]
 }

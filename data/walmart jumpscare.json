@@ -9,6 +9,11 @@
     "refreshRates": "Any",
     "song-title": "TheFatRat - Xenogenesis",
     "records": [
-        
+        {
+            "user": "seconb",
+            "link": "https://www.youtube.com/watch?v=9g85mkhzRno&t=6s",
+            "percent": 100,
+            "hz": 240
+}
     ]
 }

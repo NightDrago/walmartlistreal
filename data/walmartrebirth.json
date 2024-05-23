@@ -10,6 +10,11 @@
     "refreshRates": "any",
     "song-title": "LIA;QUO?Crystal Corruption??Nightcore Edit?",
     "records": [
-
+        {
+            "user": "JoeBeSlow ",
+            "link": "https://www.youtube.com/watch?v=MG-SBGBieK4",
+            "percent": 100,
+            "hz": 60
+        }
     ]
 }

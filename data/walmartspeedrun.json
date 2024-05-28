@@ -102,10 +102,16 @@
             "mobile": true
         },
         {
-            "user": "zLineage:",
+            "user": "zLineage",
             "link": "https://www.youtube.com/watch?v=L5-olbsHXHU&t=5s",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "Plastic",
+            "link": "https://www.youtube.com/watch?v=yFwQG4x5fB4",
+            "percent": 100,
+            "hz": 60
         }
     ]
 }

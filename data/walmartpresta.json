@@ -10,16 +10,16 @@
     "song-title": "Purgatori",
     "records": [
        {
+            "user": "Lezephyx",
+            "link": "https://www.youtube.com/watch?v=rq3Tdbyi1ro",
+            "percent": 100,
+            "hz": 180
+       },
+       {
             "user": "NotDragon",
             "link": "https://www.youtube.com/watch?v=7wN4gwYYY-M",
             "percent": 100,
             "hz": 330
-       },
-       {
-        "user": "Lezephyx",
-        "link": "https://www.youtube.com/watch?v=rq3Tdbyi1ro",
-        "percent": 100,
-        "hz": 180
-   }
+       }
     ]
 }

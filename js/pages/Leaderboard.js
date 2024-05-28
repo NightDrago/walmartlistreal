@@ -31,7 +31,7 @@ export default {
                                 <p class="type-label-lg">#{{ i + 1 }}</p>
                             </td>
                             <td class="total">
-                                <p class="type-label-lg">{{ localize(score.score.toFixed(0) }}</p>
+                                <p class="type-label-lg">{{ localize(ientry.total.toFixed(0) }}</p>
                             </td>
                             <td class="user" :class="{ 'active': selected == i }">
                                 <button @click="selected = i">

@@ -64,6 +64,12 @@
             "percent": 100,
             "hz": 60,
             "mobile": true
+        },
+        {
+            "user": "Plastic",
+            "link": "https://www.youtube.com/watch?v=n_qHjCS97g4",
+            "percent": 100,
+            "hz": 360
         }
     ]
 }

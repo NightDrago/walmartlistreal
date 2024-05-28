@@ -76,6 +76,12 @@
             "link": "https://www.youtube.com/watch?v=1-wF1Ul0I1c",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "wsgforce",
+            "link": "https://www.youtube.com/watch?v=esPL9Ll1IuQ",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }

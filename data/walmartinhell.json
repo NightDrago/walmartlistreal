@@ -10,5 +10,11 @@
     "refreshRates": "any",
     "song-title": "Fury",
     "records": [
+         {
+            "user": "Slendstone",
+            "link": "https://youtu.be/Q6rWeei_4WY",
+            "percent": 100,
+            "hz": 240
+        },
     ]
 }

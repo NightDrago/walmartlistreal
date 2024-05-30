@@ -9,7 +9,12 @@
     "refreshRates": "any",
     "song-title": " Let Go - Frou Frou",
     "records": [
-        
+        {
+            "user": "seconb",
+            "link": "https://youtu.be/OanO_h2GgIw",
+            "percent": 100,
+            "hz": 240
+      }
         
     ]
 }

@@ -20,6 +20,12 @@
             "link": "https://www.youtube.com/watch?v=jwmdVjFyCqw",
             "percent": 100,
             "hz": 330
+        },
+         {
+            "user": "iIndium",
+            "link": "https://youtu.be/giiQfVd-JAo",
+            "percent": 100,
+            "hz": 60,
         }
     ]
 }

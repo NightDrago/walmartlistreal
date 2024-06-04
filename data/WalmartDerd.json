@@ -1,5 +1,4 @@
 {
-    
     "id": 105397523,
     "name": "Walmart Derd",
     "author": "Derd",
@@ -7,9 +6,8 @@
     "verifier": "Derd",
     "verification": "https://youtu.be/wUPjhCcg7Ok",
     "percentToQualify": 100,
-    "refreshRates": "360",
+    "refreshRates": "any",
     "song-title": "A Feeling of Thread",
-    "song-link": "/",
     "records": [
     ]
 }

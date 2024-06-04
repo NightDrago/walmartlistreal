@@ -3,14 +3,19 @@
     "id": 105160828,
     "name": "Walmart LaserColdDie",
     "author": "Chiken11",
-    "creators": [""],
+    "creators": ["Chiken11"],
     "verifier": "Zonkers",
     "verification": "https://youtu.be/-8fFCBUXCw4",
     "percentToQualify": 100,
-    "refreshRates": "240",
+    "refreshRates": "any",
     "song-title": "-Haunted Woods- - Waterflame",
-    "song-link": "",
     "records": [
+        {
+            "user": "NotDragon",
+            "link": "https://www.youtube.com/watch?v=xUSm1vRtG_4",
+            "percent": 100,
+            "hz": 330
+        }
     ]
-
 }
+

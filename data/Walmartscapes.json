@@ -9,6 +9,11 @@
     "refreshRates": "Any",
     "song-title": "Creo - Slow down",
     "records": [
-        
+        {
+            "user": "NotDragon",
+            "link": "https://www.youtube.com/watch?v=ebonacJKGPc",
+            "percent": 100,
+            "hz": 330
+        }
     ]
 }

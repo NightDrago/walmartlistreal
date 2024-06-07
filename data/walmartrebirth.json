@@ -15,6 +15,12 @@
             "link": "https://www.youtube.com/watch?v=MG-SBGBieK4",
             "percent": 100,
             "hz": 60
+        },
+        {
+            "user": "Cheerios",
+            "link": "https://youtu.be/RtMBVLSy7ME",
+            "percent": 100,
+            "hz": 120
         }
     ]
 }

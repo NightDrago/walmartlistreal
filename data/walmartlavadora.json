@@ -70,6 +70,13 @@
             "link": "https://www.youtube.com/watch?v=n_qHjCS97g4",
             "percent": 100,
             "hz": 360
+        },
+          {
+            "user": "Bagel",
+            "link": "https://youtu.be/HHUqelM5HgY",
+            "percent": 100,
+            "hz": 240
         }
+        
     ]
 }

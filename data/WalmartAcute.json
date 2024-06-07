@@ -51,6 +51,13 @@
             "link": "https://youtu.be/44oZ_QctTtY",
             "percent": 100,
             "hz": 360
+        },
+         {
+            "user": "PhrogGg",
+            "link": "https://www.youtube.com/watch?v=B-uzUR8xjfY",
+            "percent": 100,
+            "hz": 360,
+            "mobile": true
         }
     ]
 }

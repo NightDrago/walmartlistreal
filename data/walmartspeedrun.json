@@ -112,6 +112,12 @@
             "link": "https://www.youtube.com/watch?v=yFwQG4x5fB4",
             "percent": 100,
             "hz": 60
+        },
+        {
+            "user": "Bagel",
+            "link": "https://youtu.be/p0X9SLU2_aA",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }

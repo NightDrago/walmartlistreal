@@ -9,6 +9,11 @@
     "refreshRates": "ANY",
     "song-title": "Arcology by: Camellia",
     "records": [
-        
+        {
+            "user": "DizzyFlakes",
+            "link": "https://www.youtube.com/watch?v=kd5IlARfvCo",
+            "percent": 100,
+            "hz": 360
+      }
     ]
 }

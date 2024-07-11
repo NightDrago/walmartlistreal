@@ -10,6 +10,11 @@
     "refreshRates": "Any",
     "song-title": "Tree Palm - Her Name Is Lady",
     "records": [
-
+        {
+            "user": "Void",
+            "link": "https://youtu.be/imfM4e4twok",
+            "percent": 100,
+            "hz": 360
+        }
     ]
         }

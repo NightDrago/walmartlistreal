@@ -26,6 +26,12 @@
             "link": "https://www.youtube.com/watch?v=2ap0FFKSqzM",
             "percent": 100,
             "hz": 240
+       },
+    {
+            "user": "blaze",
+            "link": "https://youtu.be/redH6fu3enA",
+            "percent": 100,
+            "hz": 360
        }
     ]
 }

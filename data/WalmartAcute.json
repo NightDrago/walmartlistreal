@@ -58,6 +58,12 @@
             "percent": 100,
             "hz": 360,
             "mobile": true
+        },
+        {
+            "user": "blaze",
+            "link": "https://youtu.be/9RCatCiu0GQ",
+            "percent": 100,
+            "hz": 360
         }
     ]
 }

@@ -6,7 +6,7 @@
     "verifier": "DizzyFlakes",
     "verification": "https://youtu.be/d8Mr6S_hHmo",
     "percentToQualify": 100,
-    "refreshRates": "240, NO CBF SHOW MODS AFTER COMP,",
+    "refreshRates": "any, NO CBF,",
     "song-title": "Akaruhime - Lofi Stupidity",
     "records": [    
         
@@ -51,6 +51,12 @@
         {
             "user": "Komet01",
             "link": "https://www.youtube.com/watch?v=03aiGCs9Zf0",
+            "percent": 100,
+            "hz": 240
+        },
+      {
+            "user": "pastelliano",
+            "link": "https://youtu.be/kiqqswiwDwo",
             "percent": 100,
             "hz": 240
         }

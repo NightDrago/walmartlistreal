@@ -14,6 +14,12 @@
             "link": "https://www.youtube.com/watch?v=q7d7OkuoUns",
             "percent": 100,
             "hz": 330
+         },
+        {
+            "user": "Cookie",
+            "link": "https://youtu.be/7S8eyHqnh8M",
+            "percent": 100,
+            "hz": 240
          }
     ]
 }

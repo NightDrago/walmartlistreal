@@ -9,5 +9,11 @@
     "refreshRates": "any",
     "song-title": "A Feeling of Thread",
     "records": [
+    {
+            "user": "crystl",
+            "link": "https://youtu.be/_KyXoCFxwdY",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }

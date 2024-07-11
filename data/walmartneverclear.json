@@ -9,6 +9,11 @@
     "refreshRates": "Any",
     "song-title": "Corrosive",
     "records": [
-       
+       {
+            "user": "worange",
+            "link": "https://youtu.be/sfxFOsNAB_o",
+            "percent": 100,
+            "hz": 360
+        }
     ]
 }

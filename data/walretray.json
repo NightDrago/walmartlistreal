@@ -134,6 +134,12 @@
             "link": "https://www.youtube.com/watch?v=BdVL3_iNrqU",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "savorybaconbits",
+            "link": "https://youtu.be/TW7SWJALq00",
+            "percent": 100,
+            "hz": 100
         }
     ]
 }

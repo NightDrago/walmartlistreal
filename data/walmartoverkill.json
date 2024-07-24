@@ -9,6 +9,11 @@
     "refreshRates": "Any",
     "song-title": "Overkill - Riot",
     "records": [
-            
+            {
+            "user": "pastelliano",
+            "link": "https://www.youtube.com/watch?v=oONA0Yi0w70",
+            "percent": 100,
+            "hz": 300
+            }
     ]
 }

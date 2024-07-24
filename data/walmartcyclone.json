@@ -1,19 +1,14 @@
 {
-    "id": 104811375,
+    "id": 106511659,
     "name": "Walmart Cyclone",
-    "author": "zZealous",
-    "creators": ["zZealous"],
-    "verifier": "zZealous",
-    "verification": "https://youtu.be/hepKQ35AWx4",
+    "author": "kyann",
+    "creators": ["kyann"],
+    "verifier": "kyann",
+    "verification": "https://www.youtube.com/watch?v=SLXD4hJfO4Q",
     "percentToQualify": 100,
     "refreshRates": "Any",
-    "song-title": "Hydra",
+    "song-title": "F-777 - Hydra",
     "records": [
-        {
-            "user": "NotDragon",
-            "link": "https://www.youtube.com/watch?v=aRm7IwBKH1c",
-            "percent": 100,
-            "hz": 330
-        }
+        
     ]
 }

@@ -11,6 +11,11 @@
     "song-title": "Lovely Bastards",
     "song-link": "https://www.youtube.com/watch?v=L5zE7EthV1o",
     "records": [
-
+        {
+            "user": "NotDragon",
+            "link": "https://www.youtube.com/watch?v=Rkd8j5yF0lM",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }

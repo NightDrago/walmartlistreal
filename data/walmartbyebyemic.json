@@ -96,6 +96,12 @@
             "percent": 100,
             "hz": 240,
             "mobile": true
+        },
+        {
+            "user": "Tape",
+            "link": "https://www.youtube.com/watch?v=Y8ZSKzXyxnE",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }

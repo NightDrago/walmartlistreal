@@ -1,7 +1,7 @@
 {
-    "id": 104220127,
+    "id": 105928278,
     "name": "Walmart Hostage",
-    "author": "worange",
+    "author": "SlendStone",
     "creators": ["worange"],
     "verifier": "Stucc",
     "verification": "https://youtu.be/OgcUvMXKnS0",
@@ -9,5 +9,11 @@
     "refreshRates": "Any",
     "song-title": "Hostage",
     "records": [
+        {
+            "user": "Slendstone",
+            "link": "https://www.youtube.com/watch?v=M0s--60fJTE",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }

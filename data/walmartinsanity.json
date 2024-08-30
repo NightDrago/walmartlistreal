@@ -9,6 +9,13 @@
     "refreshRates": "Any",
     "song-title": "(Lavender Town Haunting)",
     "records": [
-
+        [
+            {
+            "user": "LnanixGMD",
+            "link": "https://www.youtube.com/watch?v=uH5eFJ7eo24",
+            "percent": 100,
+            "hz": 360
+            }
+        
     ]
 }

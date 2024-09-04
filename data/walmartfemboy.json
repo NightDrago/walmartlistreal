@@ -11,6 +11,11 @@
     "song-title": " AcesToAces - memory lane ",
     "song-link": "https://youtu.be/i3As7wOIJds?si=E-vqHHbmwDtgbVx5",
     "records": [
-      
+             {
+            "user": "LnanixGMD",
+            "link": "https://youtu.be/2jnP7UL4aHI?si=SVPdF9X6m3kGxKxh",
+            "percent": 100,
+            "hz": 360
+        }
     ]
 }

@@ -1,0 +1,26 @@
+{   
+    "id": 104727597,
+    "name": "Walmart Injury",
+    "author": "DerdGD",
+    "creators": ["Derd"],
+    "verifier": "Void",
+    "verification": "https://youtu.be/jAgC3n2pu30?si=fFENDpjsIVQrOZpA",
+    "percentToQualify": 100,
+    "refreshRates": "any",
+    "song-title": "I N J U R Y",
+    "song-link": https://cdn.discordapp.com/attachments/1246315605355925579/1311889093445292062/666666.mp3?ex=674a7f6d&is=67492ded&hm=068a9c4893624c5ee62a3adb1770c240edbbf7eb97864bfbca70c5fb42e38eb3&,
+    "records": [
+        {
+            "user": "Syndrr1",
+            "link": "https://youtu.be/ZJMzatNTK2k",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Retro",
+            "link": "https://www.youtube.com/watch?v=FMSPgM4wL50",
+            "percent": 100,
+            "hz": 480
+        }
+    ]
+}

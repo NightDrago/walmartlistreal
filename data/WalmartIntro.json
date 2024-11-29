@@ -192,6 +192,12 @@
             "percent": 100,
             "hz": 60,
             "mobile": true
+        },
+        {   
+            "user": "finnGD",
+            "link": "https://www.youtube.com/watch?v=xP7LU5fzMzY",
+            "percent": 100,
+            "hz": 120
         }
             
     ]

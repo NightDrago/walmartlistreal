@@ -9,6 +9,11 @@
     "refreshRates": "Any",
     "song-title": "Pagoda by Xomu",
     "records": [
-       
+       {
+            "user": "Komet01",
+            "link": "https://www.youtube.com/watch?v=xM2Yn8zdHsQ",
+            "percent": 100,
+            "hz": 240
+          }
     ]
 }

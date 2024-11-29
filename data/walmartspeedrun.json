@@ -124,6 +124,11 @@
             "link": "https://www.youtube.com/watch?v=cSzlcX9gKxA",
             "percent": 100,
             "hz": 240
+        },
+        {    "user": "SkySpeech",
+            "link": "https://www.youtube.com/watch?v=9tscMurdh7o",
+            "percent": 100,
+            "hz": 60
         }
     ]
 }

@@ -1,38 +1,15 @@
 {
     
-    "id": 104072355,
-    "name": "Walmart Evasion",
-    "author": "NotDragon",
-    "creators": ["huevoconpan124"],
-    "verifier": "NotDragon",
-    "verification": "https://www.youtube.com/watch?v=2WtsdVfdxMA",
+    "id": 111398672,
+    "name": "Old Walmart Evasion",
+    "author": "IGdVoidI",
+    "creators": ["ChatGPT"],
+    "verifier": "Void",
+    "verification": "https://www.youtube.com/watch?v=A3rd6u1o8lM",
     "percentToQualify": 100,
     "refreshRates": "any",
     "song-title": "Dark Matter - GDHexhammer",
     "records": [
-        {
-            "user": "limitationn",
-            "link": "https://youtu.be/4bFciSVSyTQ?si=2egb3QkMytBJm-N5",
-            "percent": 100,
-            "hz": 240
-        },
-        {
-            "user": "stucc",
-            "link": "https://youtu.be/O5n8bdsdK_U",
-            "percent": 100,
-            "hz": 360
-        },
-        {
-            "user": "frivo",
-            "link": "https://insights.gg/v/2dwme7KkBrK2EM6YtTGJHo",
-            "percent": 100,
-            "hz": 240
-        },
-        {
-            "user": "xdAstro",
-            "link": "https://youtu.be/9iyR4sSJ_5Y",
-            "percent": 100,
-            "hz": 360
-        }
+        
     ]
 }

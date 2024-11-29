@@ -14,6 +14,11 @@
             "link": "https://www.youtube.com/watch?v=9tscMurdh7o",
             "percent": 100,
             "hz": 60
+        },
+        {    "user": "AntonliraGD",
+            "link": "https://www.youtube.com/watch?v=dFBtKbqPsgw",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }

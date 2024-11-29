@@ -22,11 +22,17 @@
             "percent": 100,
             "hz": 240
         },
-                        {
+        {
             "user": "limitationn",
             "link": "https://youtu.be/mMIy8tvnjCI",
             "percent": 100,
             "hz": 788
-        }        
+        },
+        {
+            "user": "Komet01",
+            "link": "https://www.youtube.com/watch?v=IkLtvDHuLBY",
+            "percent": 100,
+            "hz": 240
+        }    
     ]
 }

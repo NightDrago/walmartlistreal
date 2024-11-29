@@ -10,5 +10,11 @@
     "refreshRates": "any",
     "song-title": " BurgeraX: Scorpion (Drum & Bass) ",
     "records": [
+        {
+            "user": "ege187",
+            "link": "https://www.youtube.com/watch?v=FRKNN24LwE0",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }

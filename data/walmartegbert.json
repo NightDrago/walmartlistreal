@@ -1,0 +1,19 @@
+{
+    "id": 112759073,
+    "name": "Walmart Egbert",
+    "author": "Kipastrophe",
+    "creators": ["Kipastrophe"],
+    "verifier": "Kipastrophe",
+    "verification": "https://www.youtube.com/watch?v=wQlfVQQQqP0",
+    "percentToQualify": 100,
+    "refreshRates": "any",
+    "song-title": "Waterflame - Ricochet Love",
+    "records": [
+        {
+            "user": "Drenthe",
+            "link": "https://youtu.be/0D5JMcU4yeQ",
+            "percent": 100,
+            "hz": 144
+        }
+    ]
+}

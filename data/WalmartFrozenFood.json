@@ -47,10 +47,17 @@
             "hz": 360
         },
         {
+            "user": "Kipastrophe",
+            "link": "https://www.youtube.com/watch?v=65X5E-Z0PMY",
+            "percent": 100,
+            "hz": 240
+        },
+        {
             "user": "Drenthe",
             "link": "https://youtu.be/ouBoA0VYX7k",
             "percent": 100,
             "hz": 144
         }
+
     ]
 }

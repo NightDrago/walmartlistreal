@@ -10,5 +10,11 @@
     "refreshRates": "240, NO CBF",
     "song-title": " ThunderZone v2- - Waterflame ",
     "records": [
+        {
+            "user": "NotDragon",
+            "link": "https://youtu.be/Y51wMQBcCuw?si=v0XYtFwoirKqR-eb&t=83",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }

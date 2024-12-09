@@ -9,6 +9,11 @@
     "refreshRates": "Any",
     "song-title": "Mephisito's Lullaby",
     "records": [
-        
+        {
+            "user": "NotDragon",
+            "link": "https://youtu.be/Y51wMQBcCuw?si=hoP_2GaB2xCCO_La&t=316",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }

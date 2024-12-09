@@ -9,5 +9,11 @@
     "refreshRates": "any",
     "song-title": "F-777 - Sonic Blaster",
     "records": [
+        {
+            "user": "NotDragon",
+            "link": "https://youtu.be/Y51wMQBcCuw?si=KQoOHajRClxsuEo8&t=273",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }

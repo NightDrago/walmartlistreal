@@ -10,5 +10,11 @@
     "refreshRates": "Any",
     "song-title": "Stereo Madness",
     "records": [
+        {
+            "user": "NotDragon",
+            "link": "https://youtu.be/Y51wMQBcCuw?si=b3h-jar8kum02Fg5&t=437",
+            "percent": 100,
+            "hz": 240
+        }
     ]
   }

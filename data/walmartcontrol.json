@@ -10,5 +10,11 @@
     "refreshRates": "any",
     "song-title": "KORAII - Purgatori",
     "records": [
+        {
+            "user": "NotDragon",
+            "link": "https://youtu.be/Y51wMQBcCuw?si=fUU-HYwTARjmWD7K&t=175",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }

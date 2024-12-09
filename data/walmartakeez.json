@@ -10,6 +10,11 @@
     "refreshRates": "any",
     "song-title": "Six Impala - Eyes In The Water",
     "records": [
-
+        {
+            "user": "NotDragon",
+            "link": "https://youtu.be/Y51wMQBcCuw?si=4Y5VGEi6P10s_ZCP&t=57",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }

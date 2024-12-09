@@ -9,5 +9,11 @@
     "refreshRates": "any",
     "song-title": "ParagonX9 - Infiltration",
     "records": [
+        {
+            "user": "NotDragon",
+            "link": "https://youtu.be/Y51wMQBcCuw?si=ZtPybOgKCp4LIds5&t=157",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }

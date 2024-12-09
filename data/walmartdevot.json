@@ -9,6 +9,11 @@
     "refreshRates": "any",
     "song-title": "Deimos",
     "records": [
-     
+         {
+            "user": "NotDragon",
+            "link": "https://youtu.be/Y51wMQBcCuw?si=Yp96bsXU6qj1QrrO&t=37",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }

@@ -9,6 +9,11 @@
     "refreshRates": "any",
     "song-title": ":3",
     "records": [
-    
+        {
+            "user": "NotDragon",
+            "link": "https://youtu.be/Y51wMQBcCuw?si=dvpRDaIafg8IgpDM&t=233",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
